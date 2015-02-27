@@ -1,56 +1,57 @@
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://example.com" # the base hostname & protocol for your site
+baseurl: "/pl/blog/" # the subpath of your site, e.g. /blog/
+url: "http://mikstura.it" # the base hostname & protocol for your site
+timezone: 'Europe/Warsaw'
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Mikstura.IT - Społeczność z Podbeskidzia
   avatar: avatar.png
   gravatar: # email md5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Blog Fundacji Mikstura.IT która swoje początki wywodzi ze spełeczności ludzi związanych z technologiami webowymi i mobilnymi"
   
   # Header and footer text
-  header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text: #
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+     <p><small>Fundacja na rzecz wspierania innowacyjności i kapitału ludzkiego Mikstura.IT
+        <br>ul. Kamińskiego 19, 43-300 Bielsko-Biała
+        <br>NIP: 5472147948, REGON: 243391067, KRS: 0000477246</small></p>
+     Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   
   # Icons
   rss: false
-  email_address: # full email address, e.g. "sam@example.com"
+  email_address: "hi@mikstura.it" # full email address, e.g. "sam@example.com"
   behance:
   bitbucket: 
   dribbble: 
-  facebook: 
+  facebook: "Mikstura.IT"
   flickr: 
-  github: "rohanchandra/type-theme"
-  google_plus: 
+  github: # "miksturait"
+  google_plus: "+MiksturaIt_Foundation"
   instagram: 
-  linkedin:  # full URL
+  linkedin: # "http://www.linkedin.com/company/mikstura-it-foundation" # full URL
   pinterest: 
   reddit: 
   soundcloud: 
   stack_exchange:  # full URL
   steam: 
   tumblr: 
-  twitter: "twitter"
+  twitter: "miksturait"
   wordpress: 
-  youtube: 
+  youtube: # MiksturaIT
   
   # Scripts
   google_analytics: # tracking id, e.g. "UA-000000-01"
   disqus_shortname:
   
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
+  str_follow_on: "Obserwuj nas na"
+  str_rss_follow: "Subskrybuj RSS"
   str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
+  str_next: "Następny"
+  str_prev: "Poprzedni"
+  str_continue_reading: "Czytaj dalej"
   
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
