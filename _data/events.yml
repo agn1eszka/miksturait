@@ -1,0 +1,39 @@
+- title: Dni Wolnego Oprogramowania '15
+  description: to jedna z największych bezpłatnych konferencji Open Source w Europie.
+  date: 2015-04-17 16:30
+  place: ath
+  picture: 2015/dwo.jpg
+  icon: conference
+  link: https://www.facebook.com/events/700297583399847
+  social_media:
+    - type: facebook
+      link: https://www.facebook.com/events/700297583399847
+    - type: google-plus
+      link: https://plus.google.com/u/2/b/117596229240693259440/events/c9esmvan0opg4joiueam9k197fo
+
+- title: Mikstura.IT Meetup
+  description: Zapraszamy wszystkich chętnych na spotkanie.
+  date: 2015-02-25 17:00
+  place: slodownia
+  picture: 2015/meetup.jpg
+  icon: meetup
+  link: https://www.facebook.com/events/800440789991849
+  social_media:
+    - type: facebook
+    - link: https://www.facebook.com/events/800440789991849
+
+- title: Elephant Carpaccio - jak duże są twoje user stories?
+  description: Na tym warsztacie nauczymy się jak podzielić user stories.
+  date: 2015-02-25 17:15
+  place: slodownia
+  picture: 2015/elephant_carpaccio.jpg
+  icon: workshop
+  link: https://www.facebook.com/events/800440789991849
+  social_media:
+
+- title: Mikstura.IT Meetup
+  description: Nowe technologie a Medycyna VR, AR, interfejs mózg-komputer.
+  date: 2014-11-26 17:00
+  place: slodownia
+  picture: 2014/meetup.jpg
+  social_media:

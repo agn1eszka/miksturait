@@ -1,0 +1,32 @@
+.site-events {
+  ul.events-list {
+    list-style: none;
+    line-height: 1.5;
+    float: left;
+    text-align: center;
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    li {
+      display: block;
+      float: left;
+      width: 20em;
+      height: 20em;
+      padding-bottom: 2em;
+      div.image {
+        img {
+          height: 10em;
+        }
+      }
+      p {
+        line-height: 0.75em;
+        font-size: 0.75em;
+      }
+      address, time {
+        font-size: 0.5em;
+        line-height: 0.5em;
+        text-align: center;
+      }
+    }
+  }
+}

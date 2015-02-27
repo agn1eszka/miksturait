@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="site-events">
+    <ul class="events-list">
+        {% for event in site.data.events %}
+        <a href="{{ event.link }}" target="_blank">
+            <li>
+                <div class="image">
+                    <img src="{{ site.baseurl }}img/events/{{ event.picture }}">
+                </div>
+                {{ event.title }}
+                <p>
+                    {{ event.description }}
+                </p>
+                <address>
+                    {{ site.data.places[event.place]['name'] }} -
+                    {{ site.data.places[event.place]['address'] }}
+                </address>
+                <time>
+                    {{ event.date }}
+                </time>
+                <div>
+                    {% for sm in event.social_media %}
+                    <div>
+                        <a href="{{ sm.link }}" title="{{ sm.type }}">
+                            <i class="{{ sm.type | prepend: "fa fa-fw fa-"}}"></i>
+                        </a>
+                    </div>
+                    {% endfor %}
+                </div>
+            </li>
+        </a>
+        {% endfor %}
+    </ul>
+</div>
