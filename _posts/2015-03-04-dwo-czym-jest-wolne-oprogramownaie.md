@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ty też używasz wolnego oprogramowania i nawet nie wiesz jak szybkie ono jest!
+author: Wojtek_Ryrych
 ---
 
 W tym krótkim artykule odpowiem Ci, drogi użytkowniku, czym jest wolne
