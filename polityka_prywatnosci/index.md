@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Polityka Prywatności"
-permalink: /polityka-prywatności/
+title: "Polityka Prywatności dla domeny mikstura.it"
+permalink: /polityka-prywatnosci/
 hide: true
+hide_comments: true
 ---
 
-<h1>Polityka Prywatności dla domeny mikstura.it</h1>
 <p>Prywatność użytkowników naszego serwisu jest dla nas bardzo ważna. Poniżej znajduje się informacja o danych osobistych pobieranych w momencie odwiedzin mikstura.it. Nigdy nie sprzedajemy ani nie przekazujemy tych informacji innym podmiotom.</p>
 <h2>Pliki z logami</h2>
 <p>Tak jak większość innych witryn internetowych zbieramy i wykorzystujemy dane zawarte w plikach logów. Informacje z plików logów zawierają Twój numer IP, nazwę sieciową komputera (host), Twojego dostawcę Internetu (na przykład TP SA, czy Dialog), przeglądarkę, z której korzystasz (na przykład Internet Explorer lub Mozilla Firefox), czas jaki spędzasz na stronie oraz które strony otwierasz, korzystając z naszego serwisu.</p>
