@@ -1,41 +1,65 @@
 ---
 layout: default
 ---
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
+<article {% if page.feature-img %}class="feature-image" {% endif %}>
 
-  <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
-    <h1 class="title">{{ page.title }}</h1>
-    
-    <p class="meta">
-    {% assign m = page.date | date: "%-m" %}
-    {% case m %}
-      {% when '1' %}Styczeń
-      {% when '2' %}Luty
-      {% when '3' %}Marzec
-      {% when '4' %}Kwiecień
-      {% when '5' %}Maj
-      {% when '6' %}Czerwiec
-      {% when '7' %}Lipiec
-      {% when '8' %}Sierpień
-      {% when '9' %}Wrzesień
-      {% when '10' %}Październik
-      {% when '11' %}Listopad
-      {% when '12' %}Grudzień
-      {% endcase %}
-    {{ page.date | date: "%-d, %Y" }}
-    {% if page.author %} - {{ page.author }}{% endif %}
-    </p>
-  </header>
+    <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+        <h1 class="title">{{ page.title }}</h1>
 
-  <section class="post-content">
-    {{ content }}
-  </section>
-  
+        <p class="meta">
+            {% assign m = page.date | date: "%-m" %}
+            {% case m %}
+            {% when '1' %}Styczeń
+            {% when '2' %}Luty
+            {% when '3' %}Marzec
+            {% when '4' %}Kwiecień
+            {% when '5' %}Maj
+            {% when '6' %}Czerwiec
+            {% when '7' %}Lipiec
+            {% when '8' %}Sierpień
+            {% when '9' %}Wrzesień
+            {% when '10' %}Październik
+            {% when '11' %}Listopad
+            {% when '12' %}Grudzień
+            {% endcase %}
+            {{ page.date | date: "%-d, %Y" }}
+            {% if page.author %} - {{ page.author }}{% endif %}
+        </p>
+    </header>
+
+    <section class="post-content">
+        {{ content }}
+    </section>
+
 </article>
+
+{{ if page.author }}
+<div class="author">
+    <div class="avatar">
+        <img src="{{ site.baseurl }}img/authors/{{ page.author }}.jpg">
+    </div>
+    <div class="info">
+        <h4>{{ site.data.authors[page.author].name }}</h4>
+        <h5>{{ site.data.authors[page.author].title }}</h5>
+
+        <p>{{ site.data.authors[page.author].short_bio }}</p>
+
+        <div>
+            {% for sm in site.data.authors[page.author].social_media %}
+            <div>
+                <a href="{{ sm.link }}" title="{{ sm.type }}">
+                    <i class="{{ sm.type | prepend: "fa fa-fw fa-"}}"></i>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{{ endif }}
 
 <!-- Disqus -->
 {% if site.theme.disqus_shortname and page.hide_comments != true %}
 <div class="comments">
-  {% include disqus.html %}
+    {% include disqus.html %}
 </div>
 {% endif %}

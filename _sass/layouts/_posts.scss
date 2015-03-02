@@ -47,3 +47,29 @@ header {
     @extend %padding-regular;
   }
 }
+
+.author {
+  @extend %padding-regular;
+  float: left;
+  width: 100%;
+  .avatar {
+    display: inline-block;
+    width: 25%;
+    padding: 1%;
+  }
+  .info {
+    vertical-align: top;
+    display: inline-block;
+    width: 70%;
+    h4 {
+      margin: 0;
+    }
+    h5 {
+      margin: 0;
+    }
+    i.fa {
+      display: inline-block;
+      float: left;
+    }
+  }
+}
