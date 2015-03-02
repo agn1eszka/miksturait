@@ -42,8 +42,8 @@ theme:
   youtube: # MiksturaIT
   
   # Scripts
-  google_analytics: # tracking id, e.g. "UA-000000-01"
-  disqus_shortname:
+  google_analytics: "UA-5280888-12"
+  disqus_shortname: "miksturait"
   
   # Localization strings
   str_follow_on: "Obserwuj nas na"

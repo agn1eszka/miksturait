@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Polityka Prywatności"
+permalink: /polityka-prywatności/
+hide: true
+---
+
+<h1>Polityka Prywatności dla domeny mikstura.it</h1>
+<p>Prywatność użytkowników naszego serwisu jest dla nas bardzo ważna. Poniżej znajduje się informacja o danych osobistych pobieranych w momencie odwiedzin mikstura.it. Nigdy nie sprzedajemy ani nie przekazujemy tych informacji innym podmiotom.</p>
+<h2>Pliki z logami</h2>
+<p>Tak jak większość innych witryn internetowych zbieramy i wykorzystujemy dane zawarte w plikach logów. Informacje z plików logów zawierają Twój numer IP, nazwę sieciową komputera (host), Twojego dostawcę Internetu (na przykład TP SA, czy Dialog), przeglądarkę, z której korzystasz (na przykład Internet Explorer lub Mozilla Firefox), czas jaki spędzasz na stronie oraz które strony otwierasz, korzystając z naszego serwisu.</p>
+<h2>Pliki cookie i sygnalizatory WWW</h2>
+<p>Używamy plików cookie (ciasteczek) do przechowywania informacji takich, jak Twoje osobiste ustawienia kiedy odwiedzasz nasz serwis. Może to obejmować możliwość zalogowania do niektórych funkcji serwisu, jak forum, czat, czy pola formularzy.</p>
+<p>Ponadto wyświetlamy pochodzące z zewnętrznych serwisów reklamy, aby utrzymać naszą stronę. Niektórzy z tych reklamodawców (np. Google poprzez program Google AdSense) mogą używać takich technologii jak pliki cookie, czy sygnalizatory WWW, co w momencie wyświetlania ich reklam na naszej stronie spowoduje przesłanie reklamodawcom informacji zawierających Twój adres IP, dostawcę Internetu, typ przeglądarki, z której korzystasz i w niektórych przypadkach informację o zainstalowaniu dodatku Flash. Na ogół jest to używane do wyświetlania użytkownikom reklam z ich okolicy (na przykład reklamy sklepów w Warszawie serwowane użytkownikowi ze stolicy) lub dobierania reklam na podstawie stron, które odwiedzili wcześniej (pokazywanie reklam firm spożywczych użytkownikowi, który często odwiedza strony kucharskie).</p>
+<h2>Pliki cookie DoubleClick DART</h2>
+<p>Ponadto możemy wykorzystywać pliki cookie DART, dla celów wyświetlania reklam przez system Google DoubleClick, który tworzy plik ciasteczka, kiedy odwiedzasz strony internetowe, używające systemu reklamowego DoubleClick (włączając w to niektóre reklamy Google AdSense). Ten plik cookie jest używany do prezentowania reklam dopasowanych do Twoich zainteresowań ("interest based targeting"). Reklamy dobierane będą na podstawie historii stron, które odwiedziłeś/aś (na przykład, jeśli przeglądałeś/aś strony o krakowskich zabytkach, wyświetlone zostaną reklamy o hotelach w Krakowie, nawet na witrynach o innych temacie jak piłka nożna). System DART wykorzystuje “informacje niepozwalające na identyfikację użytkownika”. NIE śledzi on informacji osobistych, jak Twoje imię, adres e-mail, adres zamieszkania, numer telefonu, numer NIP, numery kont bankowych lub kart kredytowych. Możesz w każdej chwili wyłączyć ten system na <a href="http://www.doubleclick.com/privacy/dart_adserving.aspx">tej stronie</a>.</p>
+<p>Możesz zdezaktywować lub całkowicie wyłączyć pliki cookies na naszych stronach lub stronach naszych reklamodawców w opcjach swojej przeglądarki internetowej lub wybierając odpowiednią opcję w programach typu firewall (np. Norton Internet Security). Wyłączenie plików cookie może jednak spowodować niemożliwość pełnego wykorzystania opcji naszego serwisu. Nie będzie można między innymi zalogować się do for oraz tworzenia i logowania do własnych kont.</p>
+<p>Polityka prywatności zgodna z AdSense napisana przez <a href="http://www.JenSense.com">JenSense</a>, polska wersja: <a href="http://www.fabrykaspamu.pl">blog SEO</a>
