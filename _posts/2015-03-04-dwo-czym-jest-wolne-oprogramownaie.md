@@ -23,16 +23,11 @@ angielskim wybrnęli z tego bardzo zgrabnie. Oprogramowanie to jest 'wolne jak
 wolność słowa' (free as in free speech), nie darmowe jako piwo (free as in
 beer). Oczywiście język polski nie jest w stanie oddać tej gry słów.
 
-Trochę ironizując na temat tej 'wolności', mógłbym napisać, że oprogramowania to
-jest tak samo wolne jak wolna jest prasa (opóźnienia w podawaniu istotnych
-informacji), bądź skandując 'wolna Polska, wolna kolej!'.
-
 Najprościej ujmując: większość oprogramowania, które używasz to oprogramowanie,
 którego kod źródłowy możesz pobrać, modyfikować i udostępnić. Masz zatem wgląd
 do tego kodu źródłowego.
 Oczywiście jako użytkownika Firefoksa, Gimpa, Libre
-Office (dawne Open Office) czy dziesiątki innych programów, nie obchodzi Cię ten cały kod i jak ta
-magia działa.
+Office (dawne Open Office) czy dziesiątki innych programów, nie obchodzi Cię ten cały kod.
 
 Różnica pomiędzy wolnym a nie-wolnym jest taka, że gdybyś chciał
 zerknąć do kodu źródłowego przeglądarki Internet Explorer firmy Microsoft nie
@@ -40,7 +35,7 @@ masz takiej możliwości, bo Microsoft tego kodu na zewnątrz nie udostępnia.
 
 DWO, jak zaraz się przekonasz, to coś więcej niż oprogramowanie / programowanie.
 
-Festiwal Nauki i Technologii
+## Festiwal Nauki i Technologii
 
 DWO w Bielsku to istny fenomen. Pamiętam same początki, kiedy wszyscy uczestnicy
 mieścili się w jednej sali lekcyjnej w liceum nr 5. Uczestników innych niż
@@ -52,7 +47,7 @@ sama impreza Cię nie zainteresowała.
 Jeśli powiedziałbym Ci, że rok temu mogłeś przejechać się na wirtualnej kolejce
 górskiej, programować klocki lego, pewnie żałowałbyś swojej nieobecności.
 Jeśli powiedziałbym Ci, że w tym roku być może zobaczysz po raz pierwszy na
-własne oczy drony, jeszcze lepszą kolejkę, i rzeczy, o których nawet nie
+własne wyścigi dronów, jeszcze lepszą kolejkę, i rzeczy, o których nawet nie
 marzyłeś, jaka byłaby Twoja reakcja?
 
 Dzisiejszy rozwój technologii można porównać do końcówki XIX wieku, kiedy tacy
@@ -61,7 +56,7 @@ geniusze jak Nicola Tesla prezentowali takie wynalazki jak radio (i ogólnie
 prąd zmienny i rzeczy, które, jak niektórzy mówią, wynalazły XX i XXI wiek.
 DWO to miejsce gdzie w pigułce możesz doświadczyć obecnej rewolucji cyfrowej.
 
-Fundacja Mikstura.it, organizator Dni Wolnego Oprogramowania to organizacja,
+Fundacja Mikstura.it jako jeden ze współorganizatorów Dni Wolnego Oprogramowania to organizacja,
 która poprzez różnego rodzaju konferencje, warsztaty, panele dyskusyjne, nie
 tylko promuje nowe technologie i rozwiązania, ale daje młodym ludziom nie
 przysłowiową rybę, ale wędkę!
