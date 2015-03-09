@@ -1,7 +1,16 @@
 # SITE CONFIGURATION
 baseurl: "/pl/blog/" # the subpath of your site, e.g. /blog/
 url: "http://mikstura.it" # the base hostname & protocol for your site
+
+locale: "pl_pl"
 timezone: 'Europe/Warsaw'
+
+title: "Mikstura.IT - Społeczność z Podbeskidzia"
+description: "Blog Fundacji Mikstura.IT która swoje początki wywodzi ze spełeczności ludzi związanych z technologiami webowymi i mobilnymi"
+icon:  "/img/mikstura_it_fiolka.png"
+author:
+  twitter: "@miksturait"
+  googleplus: "+MiksturaIt_Foundation"
 
 # THEME-SPECIFIC CONFIGURATION
 theme:

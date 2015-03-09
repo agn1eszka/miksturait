@@ -2,14 +2,15 @@
 layout: post
 title: Ty też używasz wolnego oprogramowania i nawet nie wiesz jak szybkie ono jest!
 main_photo: 2015/free_software_by_qubodup_from_flickr.jpg
+image: img/posts/2015/free_software_by_qubodup_from_flickr.jpg
 author: Wojtek_Ryrych
 ---
 
 W tym krótkim artykule odpowiem Ci, drogi użytkowniku, czym jest wolne
 oprogramowanie, dlaczego jest ono szybkie i, ku Twemu zaskoczeniu, podam kilka
 przykładów tegoż oprogramowania, którego na codzień od długiego czasu używasz.
-Mam nadzieje, że skłoni Cię to do pojawienia się na najbliższych Dniach Wolnego
-Oprogramowania (DWO) w Bielsku-Białej.
+Mam nadzieje, że skłoni Cię to do pojawienia się na najbliższych [Dniach Wolnego
+Oprogramowania (DWO) w Bielsku-Białej](http://dwo.mikstura.it).
 
 W ostatnim czasie rozmawiając z różnymi ludźmi, zachęcając ich do pojawienia się na
 tegorocznym DWO, niczym bumerang, pojawiał się temat, czym są owe dni i czym
@@ -67,7 +68,7 @@ Festiwal Nauki i Technologii to nie oficjalnie nowa nazwa DWO ale propozycja
 nowej nazwy, która padła kiedy kilka tygodni temu rozmawialiśmy z kolegami
 dlaczego w pewnym sensie DWO może nie oddaje tego, czym są DNI.
 
-Tegoroczne DWO odebędą się w dniach 17–19 kwietnia. Jeśli chcesz doświadczyć
+[Tegoroczne DWO](http://dwo.mikstura.it) odebędą się w dniach 17–19 kwietnia. Jeśli chcesz doświadczyć
 niesamowitej atmosfery, zobaczyć na własne oczy technologię, która już teraz
 zmieniała nasze życie, już dziś zaplanuj udział. Może nawet wystąpisz jako
 prelegent?
