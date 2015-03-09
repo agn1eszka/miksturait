@@ -31,8 +31,8 @@ Oczywiście jako użytkownika Firefoksa, Gimpa, Libre
 Office (dawne Open Office) czy dziesiątki innych programów, nie obchodzi Cię ten cały kod.
 
 Różnica pomiędzy wolnym a nie-wolnym jest taka, że gdybyś chciał
-zerknąć do kodu źródłowego przeglądarki Internet Explorer firmy Microsoft nie
-masz takiej możliwości, bo Microsoft tego kodu na zewnątrz nie udostępnia.
+zerknąć do kodu źródłowego przeglądarki Internet Explorer nie
+masz takiej możliwości, bo firma tego kodu na zewnątrz nie udostępnia.
 
 DWO, jak zaraz się przekonasz, to coś więcej niż oprogramowanie / programowanie.
 
