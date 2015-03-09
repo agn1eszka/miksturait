@@ -37,6 +37,9 @@ layout: default
       </header>
 
       <div class="excerpt">
+        {% if post.main_photo %}
+        <img class="excerpt_photo" src="{{ site.baseurl }}img/posts/{{ post.main_photo }}">
+        {% endif %}
         {{ post.excerpt }}
 
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>

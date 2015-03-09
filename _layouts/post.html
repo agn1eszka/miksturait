@@ -28,6 +28,9 @@ layout: default
     </header>
 
     <section class="post-content">
+        {% if page.main_photo %}
+        <img class="main_photo" src="{{ site.baseurl }}img/posts/{{ page.main_photo }}">
+        {% endif %}
         {{ content }}
     </section>
 
@@ -48,7 +51,7 @@ layout: default
             {% for sm in site.data.authors[page.author].social_media %}
             <div>
                 <a href="{{ sm.link }}" title="{{ sm.type }}">
-                    <i class="{{ sm.type | prepend: "fa fa-fw fa-"}}"></i>
+                    <i class="{{ sm.type | prepend: " fa fa-fw fa-"}}"></i>
                 </a>
             </div>
             {% endfor %}

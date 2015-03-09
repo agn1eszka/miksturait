@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ty też używasz wolnego oprogramowania i nawet nie wiesz jak szybkie ono jest!
+main_photo: 2015/free_software_by_qubodup_from_flickr.jpg
 author: Wojtek_Ryrych
 ---
 
