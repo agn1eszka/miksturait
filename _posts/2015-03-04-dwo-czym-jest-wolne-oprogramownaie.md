@@ -67,7 +67,7 @@ nowej nazwy, która padła kiedy kilka tygodni temu rozmawialiśmy z kolegami
 dlaczego w pewnym sensie DWO może nie oddaje tego, czym są DNI.
 
 Tegoroczne DWO odebędą się w dniach 17–19 kwietnia. Jeśli chcesz doświadczyć
-niesamowitej atmosfery, zobaczyć na własne oczy technologię, która już dziś
+niesamowitej atmosfery, zobaczyć na własne oczy technologię, która już teraz
 zmieniała nasze życie, już dziś zaplanuj udział. Może nawet wystąpisz jako
 prelegent?
 
