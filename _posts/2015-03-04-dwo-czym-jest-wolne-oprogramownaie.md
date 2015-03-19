@@ -50,7 +50,7 @@ sama impreza Cię nie zainteresowała.
 Jeśli powiedziałbym Ci, że rok temu mogłeś przejechać się na wirtualnej kolejce
 górskiej, programować klocki Lego, pewnie żałowałbyś swojej nieobecności.
 Jeśli powiedziałbym Ci, że w tym roku być może zobaczysz po raz pierwszy na
-własne wyścigi dronów, jeszcze lepszą kolejkę, i rzeczy, o których nawet nie
+własne oczy wyścigi dronów, jeszcze lepszą kolejkę, i rzeczy, o których nawet nie
 marzyłeś, jaka byłaby Twoja reakcja?
 
 Dzisiejszy rozwój technologii można porównać do końcówki XIX wieku, kiedy tacy
