@@ -7,12 +7,11 @@
     width: 98%;
     margin-left: auto;
     margin-right: auto;
-    li {
+    li.event-item {
       display: block;
       float: left;
-      width: 20em;
       height: 20em;
-      padding-bottom: 2em;
+      padding: 2em;
       div.image {
         img {
           height: 10em;
@@ -26,6 +25,29 @@
         font-size: 0.5em;
         line-height: 0.5em;
         text-align: center;
+      }
+    }
+    .social-media-wrapper {
+      float: right;
+    }
+
+    .link-wrapper {
+      display: block;
+    }
+    .social-media-icon {
+      background-color: transparent;
+      border-radius: 50%;
+      color: black !important;
+      display: inline-block;
+      line-height: 24px;
+      padding: 8px;
+      text-align: center;
+      transition-duration: .25s;
+      transition-function: ease-in;
+      transition-property: background-color;
+
+      &:hover {
+        background-color: #1abc9c;
       }
     }
   }
