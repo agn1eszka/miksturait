@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canonical - firma która wspiera i promuje porjekty Open Source.
+title: Canonical - firma która wspiera i promuje projekty Open Source.
 main_photo: 2015/ubuntu_phone_wikimedia.org.png
 image: img/posts/2015/ubuntu_phone_wikimedia.org.png
 author: Artur_Loska
