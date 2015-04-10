@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Scrum Days – konferencja inna niż wszystkie
-main_photo: 2015/scrumdayspl.png
-image: img/posts/2015/scrumdayspl.png
+main_photo: 2015/scrumdayspl.jpg
+image: img/posts/2015/scrumdayspl.jpg
 author: Artur_Loska
 ---
 
