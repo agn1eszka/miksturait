@@ -5,7 +5,23 @@
     <atom:link href="http://mikstura.it/pl/blog//feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://mikstura.it/pl/blog//</link>
     <description>Blog Fundacji Mikstura.IT która swoje początki wywodzi ze spełeczności ludzi związanych z technologiami webowymi i mobilnymi</description>
-    <pubDate>Fri, 10 Apr 2015 13:42:01 +0200</pubDate>
+    <pubDate>Sat, 11 Apr 2015 22:19:29 +0200</pubDate>
+    
+      <item>
+        <title>Hackerspace Silesia –  społeczność kreatywnych ludzi</title>
+        <link>http://mikstura.it/pl/blog//2015/04/11/dwo_2015_partnerzy_Hackerspace_Silesia.html</link>
+        <guid isPermaLink="true">http://mikstura.it/pl/blog//2015/04/11/dwo_2015_partnerzy_Hackerspace_Silesia.html</guid>
+        <description>&lt;p&gt;Hackerspace Silesia jest grupą ludzi z całego województwa śląskiego i nie tylko, których łączy &lt;strong&gt;zamiłowanie do technologii&lt;/strong&gt;. Społeczność spotyka się we wspólnym miejscu by razem tworzyć, integrować się oraz realizować zwariowane projekty.&lt;/p&gt;
+
+&lt;p&gt;Grupa organizuje cykliczne spotkania na których poruszane są różne tematy z dziedziny &lt;strong&gt;nowych technologii&lt;/strong&gt; - takie jak &lt;strong&gt;meet.js&lt;/strong&gt;, &lt;strong&gt;PySilesia&lt;/strong&gt;, &lt;strong&gt;Malinowy Dżemik&lt;/strong&gt;. Poza samą nauką na zebraniach można przekuć wiedzę w praktyczne umiejętności, oraz wygrać ciekawe nagrody.&lt;/p&gt;
+
+&lt;p&gt;Społeczność Hackerspace Silesia otwarta jest na nowych członków. Po więcej informacji oraz formularz zgłoszeniowy zapraszamy na &lt;a href=&quot;http://hs-silesia.pl/&quot;&gt;oficjalną stronę grupy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hackerspace Silesia jest partnerem konferencji &lt;a href=&quot;http://dwo.mikstura.it&quot;&gt;Dni Wolnego Oprogramowania&lt;/a&gt;. DWO to jedna z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić w tym roku ponad 800 osób.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 11 Apr 2015 00:00:00 +0200</pubDate>
+      </item>
     
       <item>
         <title>Scrum Days – konferencja inna niż wszystkie</title>
