@@ -20,3 +20,14 @@ Artur_Loska:
       link: https://www.youtube.com/user/laskapiasek
     - type: facebook
       link: https://www.facebook.com/LaskaGaming
+Michal_Wyrobek:
+  name: Michał Wyrobek
+  title:
+  short_bio: Software Developer and Architect, Teacher, PhD Student
+  social_media:
+    - type: user
+      link: https://about.me/mwyrobek
+    - type: linkedin
+      link: https://www.linkedin.com/in/mwyrobek
+    - type: rocket
+      link: http://4experience.co/
