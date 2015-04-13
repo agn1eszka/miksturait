@@ -31,3 +31,14 @@ Michal_Wyrobek:
       link: https://www.linkedin.com/in/mwyrobek
     - type: rocket
       link: http://4experience.co/
+Tomasz_Borowski:
+  name: Tomasz Borowski
+  title: Ruby on Rails and JavaScript Developer
+  short_bio: Na codzień twórca oprogramowania webowego, a po godzinach projektant aplikacji mobilnych w technologiach międzyplatformowych.
+  social_media:
+    - type: globe
+      link: http://tbprojects.pl
+    - type: linkedin
+      link: https://www.linkedin.com/in/tomaszborowski
+    - type: twitter
+      link: https://twitter.com/TomaszBorowski
