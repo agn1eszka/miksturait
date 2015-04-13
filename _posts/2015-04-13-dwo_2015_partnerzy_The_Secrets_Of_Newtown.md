@@ -2,6 +2,7 @@
 layout: post
 title: The Secrets of Newtown - Najbardziej Mroczny Partner DWO
 author: Tomasz_Borowski
+image: img/posts/2015/newtown-baner.jpg
 ---
 
 [The Secrets of Newtown](http://thesecretsofnewtown.com/) to projekt gry lokalizacyjnej, która jest osadzona w świecie opowiadań grozy amerykańskiego pisarza H.P. Lovecrafta. W grze przyjmiesz rolę badacza, którego zadaniem będzie dotarcie do źródła niesamowitych anomalii, jakie mają miejsce w rejonie miasteczka Newtown. Rozwiązując kolejne zagadki oraz podejmując ważne decyzje zbliżysz się do prawdy, od której już bardzo niedaleko jest do obłędu.
