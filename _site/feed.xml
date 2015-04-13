@@ -5,7 +5,164 @@
     <atom:link href="http://mikstura.it/pl/blog//feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://mikstura.it/pl/blog//</link>
     <description>Blog Fundacji Mikstura.IT która swoje początki wywodzi ze spełeczności ludzi związanych z technologiami webowymi i mobilnymi</description>
-    <pubDate>Mon, 13 Apr 2015 11:22:21 +0200</pubDate>
+    <pubDate>Mon, 13 Apr 2015 20:07:08 +0200</pubDate>
+    
+      <item>
+        <title>Zapisz się na warsztaty! :-)</title>
+        <link>http://mikstura.it/pl/blog//2015/04/14/dwo-2015-zapisz-sie-na-warsztat.html</link>
+        <guid isPermaLink="true">http://mikstura.it/pl/blog//2015/04/14/dwo-2015-zapisz-sie-na-warsztat.html</guid>
+        <description>&lt;p&gt;Dziś o godzinie 21:00 ruszają zapisy na warsztaty. Ale czy jest się z czego cieszyć? Tych, którzy uczestniczyli w warsztatach na poprzednich edycjach DWO nie trzeba chyba o tym przekonywać. Jeśli chodzi o resztę, nie wierzcie nam na słowo, ale przekonajcie się sami, że warsztaty to świetna okazja do wymiany doświadczeń, pogłębiania wiedzy oraz nauki konkretnych umiejętności i zarejestrujcie się już dziś! :-)&lt;/p&gt;
+
+&lt;p&gt;Co przygotowaliśmy dla Was w tym roku? Zobaczcie sami :-)&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/scrum_is_fun_lego-wikipedia_org.jpg&quot; alt=&quot;Scrum is Fun&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;scrum-is-fun---czyli-symulacja-projektu-zwinnego-za-pomoc-klockw-lego&quot;&gt;Scrum is Fun - czyli symulacja projektu zwinnego za pomocą klocków Lego&lt;/h4&gt;
+
+&lt;p&gt;Warsztaty ze Scruma przy użyciu klocków Lego to intrygujące wprowadzenie w świat zwinnego zarządzania projektami. Świat ciekawy i wciągający jak zabawa z klockami Lego.
+Każdy może wziąć udział!&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Agnieszka Pawlicka [Sobota 18 kwietnia 11:15-13:15]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/scrum-is-fun-czyli-symulacja-projektu-zwinnego-za-pomoca-klockow-lego-agnieszka-pawlicka-tickets-16558759696&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/raspberry_pi.jpg&quot; alt=&quot;Raspberry Pi&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;raspberry-pi&quot;&gt;Raspberry Pi&lt;/h4&gt;
+
+&lt;p&gt;Warsztaty z Raspberry Pi przybliżą jeden z najpopularniejszych mikrokomputerów osobom, które nie miały z nim jeszcze do czynienia oraz pozwolą na podszlifowanie wiedzy oraz umiejętności tym wszystkim, który już kiedyś realizowali projekty oparte o ten mikrokomputer.&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Łukasz Oleś i Błażej Faliszek [Sobota 18 kwietnia 11:15-13:15]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/warsztaty-z-raspberry-pi-ukasz-oles-bazej-faliszek-tickets-16558797810&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/drupal-wikimedia_org.jpg&quot; alt=&quot;Drupal&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;podstawy-systemu-cms-drupal&quot;&gt;Podstawy systemu CMS Drupal&lt;/h4&gt;
+
+&lt;p&gt;Drupal to darmowy i udostępniony jako oprogramowanie open source system do zarządzania treścią (CMS) oraz content management framework (CMF) napisany w języku PHP i udostępniany na licencji GNU GPL.&lt;/p&gt;
+
+&lt;p&gt;Warsztat to skrócona wersja zajęć praktycznych z DrupalDay (&lt;a href=&quot;http://www.slideshare.net/grzegorzbartman/drupalday-drupal-global-training-days-wprowadzenie-do-drupala&quot;&gt;link do prezentacji&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Grzegorz Bartman [Sobota 18 kwietnia 11:15-13:15]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/podstawy-systemu-cms-drupal-grzegorz-bartman-tickets-16558852975&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/koa-koajs_com.jpg&quot; alt=&quot;Framework Koa&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;koa-framework-nowej-generacji-dla-nodejsiojs&quot;&gt;Koa framework nowej generacji dla node.js/io.js&lt;/h4&gt;
+
+&lt;p&gt;Koa to framework aplikacji webowych zaprojektowany przez ten sam zespół który stworzył &lt;a href=&quot;http://expressjs.com&quot;&gt;Express.js&lt;/a&gt;. Koa ma być mniejszym, bardziej ekspresyjnym, oraz solidniejszym startem do budowania aplikacji webowych oraz API.&lt;/p&gt;
+
+&lt;p&gt;Będzie to warsztat dla osób początkujących. Podczas warsztatu uczestnicy stworzą od podstaw prostą lecz kompletną aplikację webową z wykorzystaniem node.js/io.js oraz frameworka &lt;a href=&quot;http://koajs.com/&quot;&gt;koa&lt;/a&gt;. Podczas tworzenia aplikacji uczestnicy poznają podstawy oraz dobre praktyki w node.js.&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Piotr Kościelniak [Sobota 18 kwietnia 11:15-13:15]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/koa-framework-nowej-generacji-dla-nodejsiojs-piotr-koscielniak-tickets-16558887077&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/Ruby_on_Rails-wikimedia_org.jpg&quot; alt=&quot;Ruby on Rails&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;rails---less-is-more---czyli-jak-pisa-wicej-kodu-w-krtszym-czasie&quot;&gt;Rails - less is more - czyli jak pisać więcej kodu w krótszym czasie&lt;/h4&gt;
+
+&lt;p&gt;Ruby on Rails to framework do szybkiego tworzenia aplikacji webowych. Główne założenia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;domyślne wzorce (minimum konfiguracji)&lt;/li&gt;
+  &lt;li&gt;przyjemność pisania kodu (idea zaczerpnięta z samego języka programowania Ruby)&lt;/li&gt;
+  &lt;li&gt;DRY - Don’t Repeat Yourself&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Podczas warsztatów zostaną przedstawione najpopularniejsze narzędzia, które przyspieszają pisanie kodu w Ruby on Rails oraz ułatwiają prowadzenie projektu.&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Łukasz Gaweł &amp;amp; Mateusz Świszcz [Sobota 18 kwietnia 14:15-16:15]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/rails-less-is-more-czyli-jak-pisac-wiecej-kodu-w-krotszym-czasie-ukasz-gawe-mateusz-swiszcz-tickets-16559319370&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/php-blog_mrwebmaster_it.jpg&quot; alt=&quot;PHP&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;warsztaty-z-nowoczesnego-programowania-w-php&quot;&gt;Warsztaty z nowoczesnego programowania w PHP&lt;/h4&gt;
+
+&lt;p&gt;Podczas tych warsztatów odbędziemy podróż w czasie. Zaczynając od 2003 roku, rozwiniemy nasze umiejętności programowania w PHP o 12 lat rozwoju tego języka i wylądujemy w 2015 roku. Zaprezentowane zostaną domyślnie dostępne narzędzia, które są zupełnie nieznane wielu programistom.&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Mateusz Juściński [Sobota 18 kwietnia 14:15-16:15]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/warsztaty-z-nowoczesnego-programowania-w-php-mateusz-juscinski-tickets-16559357484&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/microsoft_azzure-azzure_microsoft_com.jpg&quot; alt=&quot;Microsoft Azure&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;warsztat-z-microsoft-azzure-wprowadzenie-iaas-paas&quot;&gt;Warsztat z Microsoft Azzure (wprowadzenie, IaaS, PaaS)&lt;/h4&gt;
+
+&lt;p&gt;Microsoft Azzure to platforma cloud computing oraz infrastruktura od firmy Microsoft.
+Wspiera wiele języków programowania, narzędzi i frameworków - dostępne są rozwiązanie nie tylko spod szyldu samej firmy.&lt;/p&gt;
+
+&lt;p&gt;Warsztaty z Microsoft Azzure w trzech częściach.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Wprowadzenie do chmury Microsoft Azzure (40 minut)&lt;/li&gt;
+  &lt;li&gt;IaaS w praktyce (45 minut)&lt;/li&gt;
+  &lt;li&gt;PaaS w praktyce (45 minut)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Ryszard Dałkowski &amp;amp; Michał Smereczyński [Sobota 18 kwietnia 14:15-16:25]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/warsztat-z-microsoft-azzure-wprowadzenie-iaas-paas-ryszard-dakowski-micha-smereczynski-tickets-16559400613&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/rpm_package-iconshock_com.jpg&quot; alt=&quot;RedHat Package Manager&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;idealny-prezent-czyli-jak-dobrze-spaczkowa&quot;&gt;Idealny prezent, czyli jak dobrze spaczkować&lt;/h4&gt;
+
+&lt;p&gt;Jednym z głównych zadań twórców dystrybucji Linuksa jest tworzenie pakietów z oprogramowaniem i opieka nad nimi. Paczka musi być łatwa do zainstalowania, dobrze działać i integrować się z resztą dystrybucji. Podczas warsztatów będzie można się dowiedzieć, jak to robić w Fedorze.&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Dominik Mierzejewski [Niedziela 19 kwietnia 10:00-12:00]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/idealny-prezent-czyli-jak-dobrze-spaczkowac-dominik-mierzejewski-tickets-16559432709&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/microservices-thenewstack_io.jpg&quot; alt=&quot;microservices service orientation diagram&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;architektura-mikroserwisw&quot;&gt;Architektura mikroserwisów&lt;/h4&gt;
+
+&lt;p&gt;Koncepcja architektury systemów rozproszonych zbudowanych z usług komunikujących się ze sobą nie jest nowa. Jakie korzyści i wyzwania niesie ze sobą rozbicie monolitycznej aplikacji na niezależne ‘klocki’ realizujące usługę poprzez swój interfejs? Podczas warsztatów pracować będziemy z przykładową aplikacją składającą się z 2-3 mikroserwisów.&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Marek Talik [Niedziela 19 kwietnia 10:00-12:00]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/architektura-mikroserwisow-marek-talik-tickets-16559460793&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/docker_logo.png&quot; alt=&quot;Docker Logo Container&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;pierwsze-starcie-z-kontenerami---docker-jako-narzdzie-w-developmencie&quot;&gt;Pierwsze starcie z kontenerami - Docker jako narzędzie w developmencie&lt;/h4&gt;
+
+&lt;p&gt;Docker to otwarta platforma dla rozproszonych usług - dzięki niej budowanie aplikacji (wraz z niezbędnym dla niej środowiskiem) jest szybsze. Platforma ta pozwala obniżyć koszty utrzymania jednorodnego środowiska deweloperskiego, testowego oraz produkcyjnego.&lt;/p&gt;
+
+&lt;p&gt;Warsztat jest adresowany do osób, które co nieco już słyszały o Dockerze, ale nie mają z nim jeszcze doświadczenia i chciałyby się nauczyć stosować go w praktyce.&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Justyna Ilczuk [Niedziela 19 kwietnia 10:00-12:00]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/pierwsze-starcie-z-kontenerami-docker-jako-narzedzie-w-developmencie-justyna-ilczuk-tickets-16559489880&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;medium&quot; src=&quot;http://2015.dwo.mikstura.it/assets/workshops/extreme_programming.jpg&quot; alt=&quot;extreme programming xp cloudtag&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;xp-game-nie-tylko-programowanie-moe-by-ekstremalne&quot;&gt;XP Game. Nie tylko programowanie może być ekstremalne&lt;/h4&gt;
+
+&lt;p&gt;XP Game to zabawny sposób na zapoznanie graczy z elementami konceptu Programowania Ekstremalnego (Xtreme Programming). Gracze będą mieli okazje poznać takie elementy jak: velocity, estymacje historyjek, zasada „yesterday’s weather” (wczorajszej pogody) oraz cyklu życia w XP. Każdy może wziąć udział!&lt;/p&gt;
+
+&lt;p class=&quot;right capitalic&quot;&gt;
+    Daniel Wicher, Marcin Bałda [Niedziela 19 kwietnia 10:00-12:00]
+    &lt;a class=&quot;button&quot; href=&quot;https://www.eventbrite.com/e/xp-game-nie-tylko-programowanie-moze-byc-ekstremalne-daniel-wicher-marcin-bada-tickets-16559875032&quot;&gt;Rejestracja!&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Więcej na temat samych warsztatów oraz prowadzących można się dowiedzieć &lt;a href=&quot;http://dwo.mikstura.it&quot;&gt;na stronie konferencji&lt;/a&gt;. Rejestracje ruszają dziś, 13 kwietnia, o 21:00 - zapraszamy :-)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 14 Apr 2015 00:00:00 +0200</pubDate>
+      </item>
     
       <item>
         <title>The Secrets of Newtown - Najbardziej Mroczny Partner DWO</title>
