@@ -14,7 +14,7 @@ W dynamicznie zmieniającym się środowisku biznesowym firmy dostosowują swój
 
 W pierwszej części [Dariusz Wylon](https://www.linkedin.com/in/dariuszwylon) opowie o tym jak zbudować samoorganizujące się zespoły oraz atmosferę wzajemnego zaufania w firmie. Zapoznasz się z narzędziami Management 3.0 umożliwiającymi wykorzystanie potencjału i wewnętrznej motywacji członków zespołu poprzez poszerzanie zakresu odpowiedzialności, autonomii i wpływu.
 
-![Delegation Poker Table](/pl/blog/img/posts/2015/delegation_poker.png)
+<img class="medium" src="/pl/blog/img/posts/2015/delegation_poker.png" alt="Delegation Poker Table">
 
 Następnie odbędzie się panel dyskusyjny, w trakcie którego publiczność, wraz z zaproszonymi gośćmi, korzystając z gry opartej na koncepcji [Delegation Poker](https://management30.com/product/delegation-poker/), postara się znaleźć odpowiedzi na pytanie na czym polega sprawne i efektywne zarządzanie. W panelu uczestniczyć będą Andrzej Krzywda z [Arkency](http://arkency.com/), Krzysztof Kozłowski z [Coderion](http://coderion.pl/), Grzegorz Rduch z [Selleo](http://selleo.com/) oraz Kamil Gałuszka reprezentujący [The Open Company Initiative](http://www.opencompany.org/).
 
