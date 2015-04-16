@@ -26,6 +26,7 @@ article {
     font-size: 0.9em;
   }
 
+
   img.main_photo {
     padding-left: 1em;
     padding-bottom: 0.5em;
@@ -36,6 +37,13 @@ article {
   img.medium {
     display: block;
     height: 12em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  img.big {
+    display: block;
+    height: 18em;
     margin-left: auto;
     margin-right: auto;
   }
