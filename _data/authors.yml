@@ -3,7 +3,7 @@ Wojtek_Ryrych:
   title: Front-End Developer @ Selleo
   short_bio: Zorientowany na cele front-end deweloper, którego kręci typografia i design. Na co dzień pisze w JavaScript, HTML5, i CSS3. Miłośnik espresso doppio i czarnego humoru. Między kodowaniem biega, piecze serniki i ciastka czekoladowe.
   social_media:
-    - type: globe
+    - type: rocket
       link: http://selleo.com/people/wojtek-ryrych
     - type: linkedin
       link: https://www.linkedin.com/in/ryrych
@@ -49,3 +49,14 @@ Eunika_Tabak:
   social_media:
     - type: linkedin
       link: https://www.linkedin.com/in/eunikatabak/en
+Dariusz_Wylon:
+  name: Dariusz Wylon
+  title: CCO @ Selleo
+  short_bio: Licencjonowany traner Management 3.0.
+  social_media:
+    - type: linkedin
+      link: https://www.linkedin.com/in/dariuszwylon
+    - type: twitter
+      link: https://twitter.com/corporate_coach
+    - type: rocket
+      link: http://selleo.com/
