@@ -1,6 +1,7 @@
 ---
 title: Budowanie zaangażowania w samoorganizujących się zespołach
 author: Dariusz_Wylon
+main_photo: 2015/self_orginizing_teams_in_past.jpg
 image: img/posts/2015/self_orginizing_teams_in_past.jpg
 layout: post
 ---
