@@ -9,7 +9,7 @@ image: img/posts/2015/newtown-baner.jpg
 
 Zanim jednak rozpoczniesz wędrówkę po Newtown, zachęcamy Cię do poznania [historii doktora Eindera Waldena](http://blog.thesecretsofnewtown.com). Przywołane we wpisach wydarzenia stanowią prolog do fabuły, jaka będzie podstawą gry lokalizacyjnej. Mamy nadzieję, że pomogą one tobie poczuć TEN klimat i zachęcą do dzielenia się sekretami Newtown ze znajomymi za pomocą [Facebooka](https://www.facebook.com/thesecretsofnewtown) i [Twittera](https://twitter.com/NewtownSecrets).
 
-Twórcy [The Secrets of Newtown](http://thesecretsofnewtown.com/) przygotowali na tegoroczne Dni Wolnego Oprogramowania grę lokalizacyjną **DWO: IT Challenge**, w której uczestnicy konferencji będą odpowiadać na różnorodne pytania dotyczące branży IT oraz samej konferencji. Gra dostępna jest dla systemów [Android](https://play.google.com/store/apps/details?id=pl.tbprojects.dwochallenge) oraz iOS (wkrótce).
+Twórcy [The Secrets of Newtown](http://thesecretsofnewtown.com/) przygotowali na tegoroczne Dni Wolnego Oprogramowania grę lokalizacyjną **DWO: IT Challenge**, w której uczestnicy konferencji będą odpowiadać na różnorodne pytania dotyczące branży IT oraz samej konferencji. Gra dostępna jest dla systemów [Android](https://play.google.com/store/apps/details?id=pl.tbprojects.dwochallenge) oraz [iOS](https://itunes.apple.com/us/app/dwo-it-challenge/id976791583?l=pl&ls=1&mt=8).
 
 The Secrets of Newtown jest partnerem konferencji [Dni Wolnego Oprogramowania](http://dwo.mikstura.it). DWO to jedna z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić w tym roku ponad 800 osób.
 
