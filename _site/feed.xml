@@ -5,7 +5,34 @@
     <atom:link href="http://mikstura.it/pl/blog//feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://mikstura.it/pl/blog//</link>
     <description>Blog Fundacji Mikstura.IT która swoje początki wywodzi ze spełeczności ludzi związanych z technologiami webowymi i mobilnymi</description>
-    <pubDate>Fri, 17 Apr 2015 00:58:12 +0200</pubDate>
+    <pubDate>Fri, 17 Apr 2015 17:00:36 +0200</pubDate>
+    
+      <item>
+        <title>DWO IT Challenge - odpowiadaj na pytania, zdobywaj nagrody!</title>
+        <link>http://mikstura.it/pl/blog//2015/04/16/dwo_it_challenge.html</link>
+        <guid isPermaLink="true">http://mikstura.it/pl/blog//2015/04/16/dwo_it_challenge.html</guid>
+        <description>&lt;p&gt;Twórcy &lt;a href=&quot;http://thesecretsofnewtown.com/&quot;&gt;The Secrets of Newtown&lt;/a&gt; przygotowali na
+tegoroczne Dni Wolnego Oprogramowania grę lokalizacyjną &lt;strong&gt;DWO: IT Challenge&lt;/strong&gt;,
+w której uczestnicy konferencji będą odpowiadać na różnorodne pytania
+dotyczące branży IT oraz samej konferencji. Gra dostępna jest dla systemów
+&lt;a href=&quot;https://play.google.com/store/apps/details?id=pl.tbprojects.dwochallenge&quot;&gt;Android&lt;/a&gt;
+oraz &lt;a href=&quot;https://itunes.apple.com/us/app/dwo-it-challenge/id976791583?l=pl&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;iOS&lt;/a&gt;.
+Dla skutecznych zbieraczy punktów czekają nagrody w postaci limitowanych koszulek,
+kubków oraz naklejek.&lt;/p&gt;
+
+&lt;p&gt;Aby odebrać nagrodę, udaj się do punktu rejestracji i pokaż
+osiągnięty wynik na swoim smarfonie. W czasie trwania konferencji pytania będą
+rozrzucone w okolicy ATH oraz starego rynku. Powodzenia!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/pl/blog/img/posts/2015/dwo_challenge_screen.jpg&quot; alt=&quot;DWO IT Challenge&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=pl.tbprojects.dwochallenge&quot;&gt;&lt;img src=&quot;/pl/blog/img/posts/2015/dwo_google_play.png&quot; alt=&quot;Google Play&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://itunes.apple.com/us/app/dwo-it-challenge/id976791583?l=pl&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;&lt;img src=&quot;/pl/blog/img/posts/2015/dwo_app_store.png&quot; alt=&quot;App Store&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DWO to jedna z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić w tym roku ponad 800 osób.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Apr 2015 00:00:00 +0200</pubDate>
+      </item>
     
       <item>
         <title>Blok edukacyjny dla szkół średnich w ramach DWO.</title>
@@ -109,7 +136,7 @@
 
 &lt;p&gt;Zanim jednak rozpoczniesz wędrówkę po Newtown, zachęcamy Cię do poznania &lt;a href=&quot;http://blog.thesecretsofnewtown.com&quot;&gt;historii doktora Eindera Waldena&lt;/a&gt;. Przywołane we wpisach wydarzenia stanowią prolog do fabuły, jaka będzie podstawą gry lokalizacyjnej. Mamy nadzieję, że pomogą one tobie poczuć TEN klimat i zachęcą do dzielenia się sekretami Newtown ze znajomymi za pomocą &lt;a href=&quot;https://www.facebook.com/thesecretsofnewtown&quot;&gt;Facebooka&lt;/a&gt; i &lt;a href=&quot;https://twitter.com/NewtownSecrets&quot;&gt;Twittera&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Twórcy &lt;a href=&quot;http://thesecretsofnewtown.com/&quot;&gt;The Secrets of Newtown&lt;/a&gt; przygotowali na tegoroczne Dni Wolnego Oprogramowania grę lokalizacyjną &lt;strong&gt;DWO: IT Challenge&lt;/strong&gt;, w której uczestnicy konferencji będą odpowiadać na różnorodne pytania dotyczące branży IT oraz samej konferencji. Gra dostępna jest dla systemów &lt;a href=&quot;https://play.google.com/store/apps/details?id=pl.tbprojects.dwochallenge&quot;&gt;Android&lt;/a&gt; oraz iOS (wkrótce).&lt;/p&gt;
+&lt;p&gt;Twórcy &lt;a href=&quot;http://thesecretsofnewtown.com/&quot;&gt;The Secrets of Newtown&lt;/a&gt; przygotowali na tegoroczne Dni Wolnego Oprogramowania grę lokalizacyjną &lt;strong&gt;DWO: IT Challenge&lt;/strong&gt;, w której uczestnicy konferencji będą odpowiadać na różnorodne pytania dotyczące branży IT oraz samej konferencji. Gra dostępna jest dla systemów &lt;a href=&quot;https://play.google.com/store/apps/details?id=pl.tbprojects.dwochallenge&quot;&gt;Android&lt;/a&gt; oraz &lt;a href=&quot;https://itunes.apple.com/us/app/dwo-it-challenge/id976791583?l=pl&amp;amp;ls=1&amp;amp;mt=8&quot;&gt;iOS&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The Secrets of Newtown jest partnerem konferencji &lt;a href=&quot;http://dwo.mikstura.it&quot;&gt;Dni Wolnego Oprogramowania&lt;/a&gt;. DWO to jedna z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić w tym roku ponad 800 osób.&lt;/p&gt;
 
@@ -492,16 +519,6 @@ prelegent?&lt;/p&gt;
 &lt;iframe src=&quot;http://embedsocial.com/facebook_album/album_photos/710416219042883&quot; width=&quot;900&quot; height=&quot;1450&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sat, 04 Oct 2014 00:00:00 +0200</pubDate>
-      </item>
-    
-      <item>
-        <title>SmartDevCon 2014 Katowice - Virtual Reality with CMoar</title>
-        <link>http://mikstura.it/pl/blog//2014/09/19/smartdevcon_smartphone_vr.html</link>
-        <guid isPermaLink="true">http://mikstura.it/pl/blog//2014/09/19/smartdevcon_smartphone_vr.html</guid>
-        <description>&lt;div id=&quot;photos&quot;&gt;&lt;/div&gt;
-&lt;iframe src=&quot;http://embedsocial.com/facebook_album/album_photos/700411326710039&quot; width=&quot;900&quot; height=&quot;1450&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Fri, 19 Sep 2014 00:00:00 +0200</pubDate>
       </item>
     
   </channel>
