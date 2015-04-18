@@ -2,6 +2,7 @@
 layout: post
 title: Fotorelacja z wyścigu dronów
 image: img/posts/2015/wyscigdronow.pl.jpg
+main_photo: 2015/wyscigdronow.pl.jpg
 ---
 
 Jeden z pierwszych w Polsce profesjonalnie zorganizowanych wyścignów dronów. Piloci z całego kraju rywalizować będą na terenie kampusu Akademi Techniczno Humanistycznej w Bielsku-Białej.
