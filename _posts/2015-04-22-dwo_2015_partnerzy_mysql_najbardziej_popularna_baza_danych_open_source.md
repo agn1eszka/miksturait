@@ -15,5 +15,5 @@ Po więcej informacji zapraszamy na : [MySQL :: The world's most popular open so
 
 <img class="big" src="/pl/blog/img/posts/2015/oracle.dolphin.dwo15.jpeg">
 
-Firma [Oracle](http://www.oracle.com/index.html) jest sponsorem [Dni Wolnego Oprogramowania](http://dwo.mikstura.it) -  jedną z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić ponad 800 osób.
+Firma [Oracle](http://www.oracle.com/index.html) jest sponsorem [Dni Wolnego Oprogramowania](http://dwo.mikstura.it) -  jednej z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić ponad 800 osób.
 

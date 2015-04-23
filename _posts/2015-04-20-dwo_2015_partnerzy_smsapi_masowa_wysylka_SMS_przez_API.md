@@ -32,5 +32,5 @@ Obecnie nad SMSAPI pracuje 30-osobowy zespół, którego główną część stan
 
 <img class="big" src="/pl/blog/img/posts/2015/smsapi.pl.mikstura.it.jpg">
 
-Firma [SMSAPI](http://www.smsapi.pl) jest sponsorem [Dni Wolnego Oprogramowania](http://dwo.mikstura.it) -  jedną z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić ponad 800 osób.
+Firma [SMSAPI](http://www.smsapi.pl) jest sponsorem [Dni Wolnego Oprogramowania](http://dwo.mikstura.it) -  jednej z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić ponad 800 osób.
 

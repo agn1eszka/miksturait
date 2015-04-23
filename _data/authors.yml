@@ -87,3 +87,12 @@ Marcin_Szalowicz:
       link: http://www.mysql.com/
     - type: linkedin
       link: https://www.linkedin.com/pub/marcin-sza%C5%82owicz/65/841/ab0/en
+Bricks_4_Kidz:
+  name: Bricks 4 Kidz Bielsko
+  title: ul. Stojałowskiego 31 (I piętro), Bielsko-Biała
+  short_bio:
+  social_media:
+    - type: rocket
+      link: http://www.bricks4kidz.com.pl/bielsko/
+    - type: facebook
+      link: https://www.facebook.com/b4kbielsko
