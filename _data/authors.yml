@@ -78,3 +78,12 @@ Andrzej_Ogonowski:
       link: http://www.smsapi.pl/
     - type: linkedin
       link: https://www.linkedin.com/pub/andrzej-ogonowski/52/3a/99a/en
+Marcin_Szalowicz:
+  name: Marcin Szałowicz
+  title: Senior Software developer, MySQL Developer Tools at Oracle
+  short_bio:
+  social_media:
+    - type: rocket
+      link: http://www.mysql.com/
+    - type: linkedin
+      link: https://www.linkedin.com/pub/marcin-sza%C5%82owicz/65/841/ab0/en

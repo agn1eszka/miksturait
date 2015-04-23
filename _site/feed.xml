@@ -5,7 +5,27 @@
     <atom:link href="http://mikstura.it/pl/blog//feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://mikstura.it/pl/blog//</link>
     <description>Blog Fundacji Mikstura.IT która swoje początki wywodzi ze spełeczności ludzi związanych z technologiami webowymi i mobilnymi</description>
-    <pubDate>Thu, 23 Apr 2015 20:04:13 +0200</pubDate>
+    <pubDate>Thu, 23 Apr 2015 20:23:11 +0200</pubDate>
+    
+      <item>
+        <title>MySQL - najpopularniejsza baza danych na licencji Open Source.</title>
+        <link>http://mikstura.it/pl/blog//2015/04/22/dwo_2015_partnerzy_mysql_najbardziej_popularna_baza_danych_open_source.html</link>
+        <guid isPermaLink="true">http://mikstura.it/pl/blog//2015/04/22/dwo_2015_partnerzy_mysql_najbardziej_popularna_baza_danych_open_source.html</guid>
+        <description>&lt;p&gt;&lt;a href=&quot;http://www.mysql.com/&quot;&gt;MySQL&lt;/a&gt; jest najpopularniejsza na świecie baza open source. Stabilność, szybkość i łatwośc użycia przyczyniły się do sukcesu MySQL jako najczęściej wybieranej bazy danych do zastosowań internetowych. Wykorzystywany przez znane firmy takie jak Facebook, Twitter, YouTube, Yahoo! i wiele, wiele innych. Ponadto MySQL jest często wybierane do zastosowań typu embedded, rozpowszechniony wśród ponad 3000 ISV’s oraz dostawców OEM.&lt;/p&gt;
+
+&lt;p&gt;Kolejnym open source’owym produktem Oracle’a jest MySQL Cluster. Jest to rozwiązanie dedykowane firmomi organizacjom wymagającym wysokiej wydajności, tranzakcyjności, zachowania własności ACID, zapewnienia dostępu w czasie rzeczywistym, wydajności jaką oferują bazy danych typu “in-memory” i dostępności na poziomie 99.999%. Jest to podstawowe narzędzie dla abonenckich baz danych głównych dostawców usług telekomunikacyjnych. Co ciekawe, MySQL Cluster wykorzystywany jest również do wykrywania globalnych nieprawidłowości w instytucjach finansowych.&lt;/p&gt;
+
+&lt;p&gt;Oracle ciągle rozwija, usprawniania i dodaje nowe funkcjonalności w swoim oprogramowaniu, które przyczynia się do rozwoju nowej generacji stron internetowych, rozwiązań mobilnych, chmur obliczeniowych oraz wbudowanych aplikacji.&lt;/p&gt;
+
+&lt;p&gt;Po więcej informacji zapraszamy na : &lt;a href=&quot;http://www.mysql.com/&quot;&gt;MySQL :: The world’s most popular open source database&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;big&quot; src=&quot;/pl/blog/img/posts/2015/oracle.dolphin.dwo15.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Firma &lt;a href=&quot;http://www.oracle.com/index.html&quot;&gt;Oracle&lt;/a&gt; jest sponsorem &lt;a href=&quot;http://dwo.mikstura.it&quot;&gt;Dni Wolnego Oprogramowania&lt;/a&gt; -  jedną z największych bezpłatnych konferencji Open Source w Europie. Wydarzenie planuje odwiedzić ponad 800 osób.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 Apr 2015 00:00:00 +0200</pubDate>
+      </item>
     
       <item>
         <title>SMS API - masowa wysyłka SMS przez API</title>
@@ -541,16 +561,6 @@ prelegent?&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 25 Feb 2015 00:00:00 +0100</pubDate>
-      </item>
-    
-      <item>
-        <title>Mikstura.IT Meetup :: Nowe Technologie a Medycyna</title>
-        <link>http://mikstura.it/pl/blog//2014/11/26/meetup.html</link>
-        <guid isPermaLink="true">http://mikstura.it/pl/blog//2014/11/26/meetup.html</guid>
-        <description>&lt;div id=&quot;photos&quot;&gt;&lt;/div&gt;
-&lt;iframe src=&quot;http://embedsocial.com/facebook_album/album_photos/735423939875444&quot; width=&quot;900&quot; height=&quot;1450&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;&lt;/iframe&gt;
-</description>
-        <pubDate>Wed, 26 Nov 2014 00:00:00 +0100</pubDate>
       </item>
     
   </channel>
