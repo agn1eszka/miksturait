@@ -10,6 +10,11 @@
   padding-top: 20px;
 
   .excerpt_photo {
+    display: inline-block;
     padding-top: 10px;
+  }
+
+  .para-wrapper {
+    min-height: 120px;
   }
 }
