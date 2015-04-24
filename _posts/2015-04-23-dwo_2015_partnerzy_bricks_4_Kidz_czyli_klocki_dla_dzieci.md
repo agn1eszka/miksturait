@@ -3,7 +3,7 @@ layout: post
 title: Bricks 4 Kidz
 author: Bricks_4_Kidz
 main_photo: 2015/bricks_4_kidz.jpg
-image: img/posts/015/bricks.4.kidz.facebook.jpg
+image: img/posts/015/dwo.kids-mikstura.it.jpg
 ---
 
 Bricks 4 Kidz [czyli po prostu Klocki Dla Dzieci] to sprawdzony amerykański pomysł i metodologia prowadzenia zajęć dla dzieci. Zapewniamy wyjątkową atmosferę zajęć, podczas których uczymy, budujemy, bawimy… za pomocą uwielbianych przez dzieci klocków LEGO®.
