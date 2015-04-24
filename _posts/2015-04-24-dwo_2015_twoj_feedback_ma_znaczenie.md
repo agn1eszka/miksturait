@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twój feedback ma znaczenie! Jakie twoim zdaniem ma być DWO '16?
+title: Twój feedback ma znaczenie! Jakie twoim zdaniem ma być #DWO16?
 author: Michal_Czyz
 main_photo: 2015/dwo.wants.your.feedback.jpg
 image: img/posts/2015/dwo.wants.your.feedback.jpg
