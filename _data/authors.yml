@@ -96,3 +96,18 @@ Bricks_4_Kidz:
       link: http://www.bricks4kidz.com.pl/bielsko/
     - type: facebook
       link: https://www.facebook.com/b4kbielsko
+Michal_Czyz:
+  name: Michał Czyż
+  title: CTO at Selleo & VP at Mikstura.IT
+  short_bio: Developer Ruby od 2007 roku, aktualnie jako CTO w Selleo zajmuje się szkoleniami i szerzeniem dobrych praktyk. Aktywny działacz w społeczności Mikstura.IT
+  social_media:
+    - type: rocket
+      link: http://selleo.com/
+    - type: linkedin
+      link: https://www.linkedin.com/in/cs3bmichalczyz
+    - type: facebook
+      link: https://www.facebook.com/michal.czyz.cs3b
+    - type: twitter
+      link: https://twitter.com/cs3b
+    - type: google
+      link: https://plus.google.com/+Micha%C5%82Czy%C5%BC
