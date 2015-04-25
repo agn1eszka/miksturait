@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twój feedback ma znaczenie!
+title: Twój feedback ma znaczenie! #dwo15
 author: Michal_Czyz
 main_photo: 2015/dwo.wants.your.feedback.jpg
 image: img/posts/2015/dwo.wants.your.feedback.jpg
