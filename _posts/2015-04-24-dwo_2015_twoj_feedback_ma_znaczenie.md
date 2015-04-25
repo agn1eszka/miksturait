@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twój feedback ma znaczenie! Jakie twoim zdaniem ma być #dwo16?
+title: Twój feedback ma znaczenie!
 author: Michal_Czyz
 main_photo: 2015/dwo.wants.your.feedback.jpg
 image: img/posts/2015/dwo.wants.your.feedback.jpg
@@ -8,6 +8,8 @@ image: img/posts/2015/dwo.wants.your.feedback.jpg
 
 Czy robiąc to samo, w taki sam sposób, można się rozwijać i uzyskiwać nieprzeciętne rezultaty? Być może niektórym się to udaje, my jednak nie chcemy iść sprawdzoną drogą .
 Jako organizatorzy DWO '15 - szukamy możliwość do ulepszenia konferencji oraz wydarzeń towarzyszących - każdy z was może nam w tym pomóc. Wystarczy wypełnić poniższą ankietę.
+
+### Jakie twoim zdaniem ma być #dwo16?
 
 Feedback podzieliliśmy na 3 ankiety (jak ktoś ma mało czasu może wypełnić tylko pierwszą):
 
