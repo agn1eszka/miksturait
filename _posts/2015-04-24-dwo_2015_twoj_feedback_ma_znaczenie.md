@@ -46,6 +46,6 @@ Aby uprzyjemnić czas spędzony na wypełnianiu ankiet :-) dodaliśy zdjęcia z 
 Kilka statystyk jeśli chodzi o tegoroczne DWO w którym przed 3 dni uczestniczyło w sumie 800 osób:
 
 * ~ 350 uczniów oraz nauczycieli ze szkół średnich uczestniczyło w piątkowej sesji: [Programista - zawód przyszłości](/pl/blog//2015/04/15/dwo_2015_programista_zawod_przyszlosci.html)
-* ~ 30 dziedzi w wieku przedszkolnym w sesji DWO4Kids
+* ~ 30 dzieci w wieku przedszkolnym w sesji DWO4Kids
 * ~ 420 osób uczestniczyło od Piątku do Niedzieli w cześci głównej konferencji
 
