@@ -29,10 +29,10 @@ O ileż bardziej jest to ważne w przypadku wyszukiwania talentu - konkretnej zd
 
 ### Po drugie: uczyć jak zrozumieć świat.
 
-Umiejętności szybkiego szukania oraz analizy informacji daleko przewyższają posiadanie samej wiedzy (do której dostęp ma każdy, i to praktycznie wszędzie). Elementarną umiejętnością w tym przypadku jest efektywne korzystanie ze współczesnych narzędzi ICT (Information and Communication Technologies).
+Umiejętności szybkiego szukania oraz analizy informacji daleko przewyższają posiadanie samej wiedzy (do której dostęp ma każdy i to praktycznie wszędzie). Elementarną umiejętnością w tym przypadku jest efektywne korzystanie ze współczesnych narzędzi ICT (Information and Communication Technologies).
 
 <p class="right capitalic">
-“Być może szkoła nie powinna już uczyć, kim był Platon, tylko właśnie jak filtrować informacje. (...) Człowiekiem kulturalnym nie jest ten, który zna datę urodzin Napoleona, <br/>ale ten, który potrafi ją znaleźć w ciągu minuty.“
+“Być może szkoła nie powinna już uczyć, kim był Platon, <br/>tylko właśnie jak filtrować informacje. (...)<br/> Człowiekiem kulturalnym nie jest ten, który zna datę urodzin Napoleona, <br/>ale ten, który potrafi ją znaleźć w ciągu minuty.“
 <br/> Umberto Eco
 </p>
 
@@ -62,35 +62,35 @@ Polska ma tutaj sporo do zrobienia - większość tych materiałów jest dostęp
 
 Kurs przed komputerem oczywiście nie zastąpi pracy w zespole - która pomaga rozwinąć istotne kompetencje społeczne, zebrać inspiracje od innych, jak i uczyć się od siebie nawzajem. Najlepiej jeśli taka praca jest zorganizowana w ramach projektu, który rozwiązuje realny problem.
 
-### Projekty - rozwiazywanie rzeczywistych problemów, drogą do kreatywności, i efektywnej nauki
+### Projekty - rozwiazywanie rzeczywistych problemów, drogą do kreatywności i efektywnej nauki
 
-Swobodę w działaniu daje uczniom praca projektowa, kiedy to trzeba rozwiązać konkretny problem (bez dokładnej instrukcjii jak to należy zrobić). Duże znaczenie ma też dobrowolność - do projektu włącza się ten kto chce.
+Swobodę w działaniu daje uczniom praca projektowa, kiedy to trzeba rozwiązać konkretny problem (bez dokładnej instrukcji jak to należy zrobić). Duże znaczenie ma też dobrowolność - do projektu włącza się ten kto chce.
 
 Można się zastanawiać, czy taka swoboda może dać wymierne rezultaty? Na konferecji podano co najmniej dwa przykłady: inicjatywa Coder Dojo oraz projekty uczniów z Zespołu Szkół im. Jana III Sobieskiego w Jastrzębiu Zdroju.
 
 
 #### Czym jest Coder Dojo?
 
-Coder Dojo to regularne, nieodpłatne spotkania klubów programowania skierowane dla dzieci ze szkół podstawowych oraz młodzież z gimnazjum i liceum. Celem tych spotkać jest wyłącznie nauka (pogłębiania umiejętności technicznych, ale również interpersonalnych - praca w zespole) a przy tym dobra zabawa.
+Coder Dojo to regularne, nieodpłatne spotkania klubów programowania skierowane dla dzieci ze szkół podstawowych oraz młodzież z gimnazjum i liceum. Celem tych spotkać jest wyłącznie nauka (pogłębiania umiejętności technicznych, ale również interpersonalnych - praca w zespole), a przy tym dobra zabawa.
 
 Duży nacisk jest położony na swobodę dobierania projektów - nie ma odgórnego planu, każdy pracuje nad czym chce. Rola mentorów to: inspirować, motywować i w razie potrzeby wspierać.
 
-Dla tych co chcę wiedzieć więcej zapraszam do obejżenia filmu, oraz odwiedzenia strony [Fundacji CoderDojo](http://coderdojo.org.pl/), która działa w Polsce. W pobliżu działają dwa kluby, jeden w [Gliwicach](http://gliwice.coderdojo.org.pl/), drugi w [Cieszynie](http://biblioteka.cieszyn.pl/archiwa/1486).
+Dla tych co chcę wiedzieć więcej zapraszam do obejrzenia filmu oraz odwiedzenia strony [Fundacji CoderDojo](http://coderdojo.org.pl/), która działa w Polsce. W pobliżu działają dwa kluby, jeden w [Gliwicach](http://gliwice.coderdojo.org.pl/) i drugi w [Cieszynie](http://biblioteka.cieszyn.pl/archiwa/1486).
 
 <center><iframe width="640" height="360" src="https://www.youtube.com/embed/k5ciSFjEN1c" frameborder="0" allowfullscreen></iframe></center>
 
 #### ESKONzO, czyli Elektroniczny System Komunikacji Osób Niepełnosprawnych z Otoczeniem
 
-Doskonałym przykładem iż uczniowie mogą się wiele nauczyć pracując z rzeczywistym problem a nie zadaniem na kartce, jest system ESKONzO.
+Doskonałym przykładem iż uczniowie mogą się wiele nauczyć pracując z rzeczywistym problem, a nie zadaniem na kartce, jest system ESKONzO.
 
 Film zaprezentowany na konferencji ukazał historię osoby sparaliżowanej, która dzięki temu rozwiązaniu (w całości zbudowanym w szkole) może samodzielnie obsługiwać komputer - co diametralnie poprawia jej jakość życia.
 
 Na rynku dostępne są komercyjne rozwiązanie - są one jednak zbyt drogie dla wielu rodzin. [Rozwiązanie uczniów z Zespołu Szkół nr. 6 w Jastrzębiu-Zdroju](http://zs6sobieski.pl/osiagniecia/nasze-wynalazki/eskonzo/) jest znacznie tańsze w produkcji, dodatkowo uczniowie wykonują każdy egzemplarz w ramach wolontariatu.
 
-To nie jest jedyne rozwiązanie którym mogą się pochwalić uczniowie tej szkoły - warto odwiedzić stronę szkoły i [zobaczyć filmiki podsumuwujące działalności uczniów i nauczycieli](http://zs6sobieski.pl/test-2/), szkoła zebrała wielenagród na międzynarodowych konkursach.
+To nie jest jedyne rozwiązanie którym mogą się pochwalić uczniowie tej szkoły - warto odwiedzić stronę szkoły i [zobaczyć filmiki podsumowujące działalności uczniów i nauczycieli](http://zs6sobieski.pl/test-2/), szkoła zebrała wiele nagród na międzynarodowych konkursach.
 
-Wspaniałe efekty tych projektów potwierdzają iż rzeczywisty problem dany uczniom wraz z swobodą w działaniu, właściwym mentoringu ze strony nauczyciela - jest drogą do efektywne kształcenia.
+Wspaniałe efekty tych projektów potwierdzają, iż rzeczywisty problem dany uczniom wraz ze swobodą w działaniu, właściwym mentoringu ze strony nauczyciela - jest drogą do efektywnego kształcenia.
 
 <p class="right capitalic">
-<a href="http://eduzmieniacze.pl/">Konferencja Eduzmieniacze</a> odbyła się w dniach 27 i 28 marca 2015 r. w Sosnowcu.
+<a href="http://eduzmieniacze.pl/">Konferencja Eduzmieniacze</a> odbyła się w dniach 27 i 28 marca 2015 r., w Sosnowcu.
 </p>
