@@ -10,9 +10,9 @@ Szkoła, szkołą, jednak życie swoje pokaże - częste słowa które kierują 
 
 Pragmatyzm, potrzeba przygotowania ucznia do pracy, nabycie umiejętności jak się uczyć - bo jedyna stała na rynku pracy to zmiana. Takie głosy dały się słyszeć w wielu prezentacjach. Szczególna uwaga została zwrócona na umiejętności ICT - jak wykorzystać je w samym procesie dydaktycznym, oraz jak istotne jest wykorzystanie technologii informatycznych dla zrozumienia i współtworzenia współczesnego świata.
 
-### Po pierwsze: uczyć dzieci, a nie przedmiotów.
+### Po pierwsze: uczyć ucznia.
 
-Świat pędzi, i tak naprawdę nie da się jednoznacznie ocenić, co będzie potrzebne za kilka lat. Jest jednak jedna rzecz, która będzie zawsze potrzebna - umiejętność efektywnego uczenie siebie oraz drugich - edukacja nie kończy się wraz z opuszczenie murów szkoły.
+Świat pędzi, i tak naprawdę nie da się jednoznacznie ocenić, co będzie potrzebne za kilka lat. Jest jednak jedna rzecz, która będzie zawsze potrzebna - umiejętność efektywnego uczenie samego siebie - edukacja nie kończy się wraz z opuszczenie murów szkoły.
 
 <img class="" src="/pl/blog/img/posts/2015/flickr.com-photos-sachac-9410571063.jpg">
 
