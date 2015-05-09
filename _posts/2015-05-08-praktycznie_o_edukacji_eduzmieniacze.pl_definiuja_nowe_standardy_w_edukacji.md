@@ -50,7 +50,7 @@ Na świecie ma miejsce rewolucja dostęp do wiedzy - serwisy takie jak wymienion
 
 
 
-<img class="big" src="/pl/blog/img/posts/2015/eduzmieniacza.mooc.jpg">
+<img class="medium" src="/pl/blog/img/posts/2015/eduzmieniacza.mooc.jpg">
 
 * [Khan Academy](https://www.khanacademy.org/)
 * [Coursera](https://www.coursera.org/)
