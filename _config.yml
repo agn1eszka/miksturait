@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/pl/blog/" # the subpath of your site, e.g. /blog/
+baseurl: "/pl/blog" # the subpath of your site, e.g. /blog/
 url: "http://mikstura.it" # the base hostname & protocol for your site
 
 locale: "pl_pl"
@@ -19,7 +19,7 @@ theme:
   avatar: avatar.png
   gravatar: # email md5 hash
   description: "Blog Fundacji Mikstura.IT która swoje początki wywodzi ze spełeczności ludzi związanych z technologiami webowymi i mobilnymi"
-  
+
   # Header and footer text
   header_text: #
   footer_text: >
@@ -27,33 +27,33 @@ theme:
         <br>ul. 1 Maja 17, 43-300 Bielsko-Biała
         <br>NIP: 5472147948, REGON: 243391067, KRS: 0000477246</small></p>
      Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-  
+
   # Icons
   rss: false
   email_address: "hi@mikstura.it" # full email address, e.g. "sam@example.com"
   behance:
-  bitbucket: 
-  dribbble: 
+  bitbucket:
+  dribbble:
   facebook: "Mikstura.IT"
-  flickr: 
+  flickr:
   github: # "miksturait"
   google_plus: "+MiksturaIt_Foundation"
-  instagram: 
+  instagram:
   linkedin: # "http://www.linkedin.com/company/mikstura-it-foundation" # full URL
-  pinterest: 
-  reddit: 
-  soundcloud: 
+  pinterest:
+  reddit:
+  soundcloud:
   stack_exchange:  # full URL
-  steam: 
-  tumblr: 
+  steam:
+  tumblr:
   twitter: "miksturait"
-  wordpress: 
+  wordpress:
   youtube: # MiksturaIT
-  
+
   # Scripts
   google_analytics: "UA-5280888-12"
   disqus_shortname: "miksturait"
-  
+
   # Localization strings
   str_follow_on: "Obserwuj nas na"
   str_rss_follow: "Subskrybuj RSS"
@@ -61,12 +61,12 @@ theme:
   str_next: "Następny"
   str_prev: "Poprzedni"
   str_continue_reading: "Czytaj dalej"
-  
+
   # Colors, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 
 # PAGINATION
-paginate: 5
+paginate: 10
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
