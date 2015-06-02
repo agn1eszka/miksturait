@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 1500 klocków czyli zwinne zespoły budujące robota
+main_photo: 2015/lego_team_work.jpg
+image: img/posts/2015/lego_spinner_factory_arm.jpg
+author: Wojtek_Ryrych
 ---
 23 maja bieżącego roku w Cieszynie odbyły się warsztaty [Coderdojo](https://www.facebook.com/pages/Coderdojo-Cieszyn/1617811011788747), podczas których dzieci miały możliwość zbudowania [Spinner Factory](https://www.youtube.com/watch?v=QxaCIyJya1I) – programowalnego robota z klocków Lego Mindstorms.
 
@@ -8,7 +11,7 @@ title: 1500 klocków czyli zwinne zespoły budujące robota
 
 ## Mały geniusz
 
-Tuż przed godziną dziewiątą wraz [Michałem Czyżem](https://www.linkedin.com/in/cs3bmichalczyz), wchodzimy na trzecie piętro [Biblioteki Miejskiej w Cieszynie](http://biblioteka.cieszyn.pl/). Niosąc 4 skrzynki pełne klocków – w sumie **1500** elementów, czeka na nas spora grupa dzieciaków gotowych do działania.
+Tuż przed godziną dziewiątą wraz [Michałem](https://www.linkedin.com/in/cs3bmichalczyz), wchodzimy na trzecie piętro [Biblioteki Miejskiej w Cieszynie](http://biblioteka.cieszyn.pl/). Niosąc 4 skrzynki pełne klocków – w sumie **1500** elementów, czeka na nas spora grupa dzieciaków gotowych do działania.
 
 **11-letni** Jurek zrobił na mnie szczególne wrażenie kiedy po chwili z małego kartonowego pudełka wyciągnął robota, którego buduje od miesiąca. Podczas gdy reszta dzieci uczy się programowania przy pomocy języka Scratch, Jurek **koduje w C**. Pod opieką swojego mentora, Franka, Jurek pomaga także w budowaniu **robota sumo**, którego wraz z innymi dzieciakami zaprezentują podczas finału [„Mistrzów Kodowania”](http://coderdojo.org.pl/coderdojo-i-mistrzowie-kodowania/).
 
@@ -20,11 +23,13 @@ Mój 4-osobowy zespół dostaje ambitne zadanie – złożenie pierwszej częśc
 
 Mija godzina, do ukończenia modułu zostało zaledwie 15 minut. Wertując instrukcję tam i z powrotem coś nam nie pasuje. Dzieciaki wyraźnie znużone brakiem postępu, oddalają się by pograć na iPadach. Na placu boju zostaję sam. Szybka decyzja – składam od początku. Dzięki pomocy Wioletty, mentora w Coderdojo, która zachęcała dzieciaki do dalszej pracy, po kilkunastu minutach dołącza do mnie Franek, który później zapytany, dlaczego mimo niepowodzenia powrócił, odpowiedział: „*miałem dość ale wiedziałem, że trzeba skończyć*”.
 
+<img class="big" src="/pl/blog/img/posts/2015/lego_spinner_factory_testing.jpg">
+
 ## Zabawa z poważnym podejściem
 
 Po **trzech** godzinach w sali komputerowej robi się coraz duszniej. Widać pot i zmęczenie na twarzach uczestników. Zaczyna się drugi etap, czyli łączenie niezależnych modułów. Czeka nas sprawdzian naszej dokładności. Na nieszczęście nie tylko mój zespół popełnił błąd niedokładnego składania.
 
-Okazuje się, że instrukcja Lego swoją złożonością nie zmieniła się od prawie 30 lat. Zdaje się, że powiedzenie „*klocki Lego nie są dla dzieci tylko dla ich rodziców*” po raz kolejny się potwierdza. Po dłuższym czasie przy robocie zostają tylko „duże dzieci” – Pan Michał, Pan Bartek, Pani Eunika i ja. Bartek Tabak, który prowadzi w bibliotece zajęcia z fotografii, na niejednym zdjęciu uwiecznił jak zespół, nie tylko dwoi się i troi, ale wykonuje na podłodze „gimnastykę artystyczną” by uruchomić robota.
+Okazuje się, że instrukcja Lego swoją złożonością nie zmieniła się od prawie 30 lat. Zdaje się, że powiedzenie „*klocki Lego nie są dla dzieci tylko dla ich rodziców*” po raz kolejny się potwierdza. Po dłuższym czasie przy robocie zostają tylko „duże dzieci” – Michał, Bartek, Eunika i ja. Bartek Tabak, który prowadzi w bibliotece zajęcia z fotografii, na niejednym zdjęciu uwiecznił jak zespół, nie tylko dwoi się i troi, ale wykonuje na podłodze „gimnastykę artystyczną” by uruchomić robota.
 
 Jest już po godzinie 15. Właściwie już dawno powinniśmy skończyć. Mimo spędzonych wielu godzin, sprawdzania instrukcji nieskończoną ilość razy, ostatnia czynność, którą powinien wykonać robot, nie zostaje naprawiona. Ramię, które powraca ze śmigłem w kolorze wybranym poprzez detektor koloru, nie jest w stanie w odpowiednim momencie zwolnić „bączka” i pozwolić mu kręcić się po podłodze niczym zabawka, którą wielu z nas dobrze pamięta z dzieciństwa.
 
@@ -37,6 +42,9 @@ co w wolnym tłumaczeniu da się przetłumaczyć jako „pierwsza próba nauczen
 
 Trzeba przyznać, że złożenie tego typu robota było zadaniem ambitnym dla tej grupy wiekowej. Utwierdziło mnie także w przekonaniu, że uczenie młodych programowania powinno się odbywać właśnie tworząc coś „namacalnego”, nie abstrakcyjnego przekazywania suchych pojęć i wiedzy teoretycznej.
 Jednak ważne jest, jak powiedziała mi Eunika, że *„choć był to pierwszy tego typu eksperyment, a projekt był bardzo skomplikowany – udało nam się go ukończyć. Całe doświadczenie pokazało nam, że przy realizacji dowolnego projektu liczy się przede wszystkim determinacja, praca zespołowa i pozytywne nastawienie”*.
+
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="true" data-href="/MiksturaIT/videos/vb.369211183163390/821908997893604/?type=1"><div class="fb-xfbml-parse-ignore"><blockquote cite="/MiksturaIT/videos/821908997893604/"><a href="/MiksturaIT/videos/821908997893604/"></a><p>#lego spinner factory - zbudowane dzis przez uczestnikow Coderdojo Cieszyn #coderdojo #mindstorms #ev3</p>Posted by <a href="https://www.facebook.com/MiksturaIT">MiksturaIT</a> on 23 maja 2015</blockquote></div></div>
 
 ## Nie tylko programowanie
 
