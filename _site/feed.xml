@@ -5,29 +5,29 @@
     <atom:link href="http://mikstura.it/pl/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://mikstura.it/pl/blog/</link>
     <description>Blog Fundacji Mikstura.IT która swoje początki wywodzi ze spełeczności ludzi związanych z technologiami webowymi i mobilnymi</description>
-    <pubDate>Tue, 02 Jun 2015 08:38:23 +0200</pubDate>
+    <pubDate>Thu, 04 Jun 2015 12:37:39 +0200</pubDate>
     
       <item>
         <title>1500 klocków czyli zwinne zespoły budujące robota</title>
         <link>http://mikstura.it/pl/blog/2015/06/01/1500-klockow-czyli-zwinne-zespoly-budujace-robota.html</link>
         <guid isPermaLink="true">http://mikstura.it/pl/blog/2015/06/01/1500-klockow-czyli-zwinne-zespoly-budujace-robota.html</guid>
-        <description>&lt;p&gt;23 maja bieżącego roku w Cieszynie odbyły się warsztaty &lt;a href=&quot;https://www.facebook.com/pages/Coderdojo-Cieszyn/1617811011788747&quot;&gt;Coderdojo&lt;/a&gt;, podczas których dzieci miały możliwość zbudowania &lt;a href=&quot;https://www.youtube.com/watch?v=QxaCIyJya1I&quot;&gt;Spinner Factory&lt;/a&gt; – programowalnego robota z klocków Lego Mindstorms.&lt;/p&gt;
+        <description>&lt;p&gt;W sobotę 23 maja br. w Cieszynie odbyły się warsztaty &lt;a href=&quot;https://www.facebook.com/pages/Coderdojo-Cieszyn/1617811011788747&quot;&gt;Coderdojo&lt;/a&gt;, podczas których dzieci miały możliwość zbudowania &lt;a href=&quot;https://www.youtube.com/watch?v=QxaCIyJya1I&quot;&gt;Spinner Factory&lt;/a&gt; – programowalnego robota z klocków Lego Mindstorms.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Ideą&lt;/strong&gt; Coderdojo, jak powiedział mi Franek, junior mentor pomagający młodszym kolegom, to &lt;strong&gt;nauka programowania&lt;/strong&gt; &lt;s&gt;dla najmłodszych&lt;/s&gt; &lt;strong&gt;dla wszystkich&lt;/strong&gt;, połączona z &lt;strong&gt;pracą zespołową&lt;/strong&gt;, w której istotą jest &lt;strong&gt;dzielenie się wiedzą i wzajemna pomoc&lt;/strong&gt; w rozwiązywaniu problemów.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ideą&lt;/strong&gt; Coderdojo, jak powiedział mi Franek, junior mentor pomagający młodszym kolegom, jest &lt;strong&gt;nauka programowania&lt;/strong&gt; &lt;s&gt;dla najmłodszych&lt;/s&gt; &lt;strong&gt;dla wszystkich&lt;/strong&gt;, połączona z &lt;strong&gt;pracą zespołową&lt;/strong&gt;, w której istotą jest &lt;strong&gt;dzielenie się wiedzą i wzajemna pomoc&lt;/strong&gt; w rozwiązywaniu problemów.&lt;/p&gt;
 
 &lt;h2 id=&quot;may-geniusz&quot;&gt;Mały geniusz&lt;/h2&gt;
 
-&lt;p&gt;Tuż przed godziną dziewiątą wraz &lt;a href=&quot;https://www.linkedin.com/in/cs3bmichalczyz&quot;&gt;Michałem&lt;/a&gt;, wchodzimy na trzecie piętro &lt;a href=&quot;http://biblioteka.cieszyn.pl/&quot;&gt;Biblioteki Miejskiej w Cieszynie&lt;/a&gt;. Niosąc 4 skrzynki pełne klocków – w sumie &lt;strong&gt;1500&lt;/strong&gt; elementów, czeka na nas spora grupa dzieciaków gotowych do działania.&lt;/p&gt;
+&lt;p&gt;Tuż przed godziną dziewiątą wraz &lt;a href=&quot;https://www.linkedin.com/in/cs3bmichalczyz&quot;&gt;Michałem&lt;/a&gt;, wchodzimy na trzecie piętro &lt;a href=&quot;http://biblioteka.cieszyn.pl/&quot;&gt;Biblioteki Miejskiej w Cieszynie&lt;/a&gt; Niosąc 4 skrzynki pełne klocków – w sumie &lt;strong&gt;1500&lt;/strong&gt; elementów, czeka na nas spora grupa dzieciaków gotowych do działania.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;11-letni&lt;/strong&gt; Jurek zrobił na mnie szczególne wrażenie kiedy po chwili z małego kartonowego pudełka wyciągnął robota, którego buduje od miesiąca. Podczas gdy reszta dzieci uczy się programowania przy pomocy języka Scratch, Jurek &lt;strong&gt;koduje w C&lt;/strong&gt;. Pod opieką swojego mentora, Franka, Jurek pomaga także w budowaniu &lt;strong&gt;robota sumo&lt;/strong&gt;, którego wraz z innymi dzieciakami zaprezentują podczas finału &lt;a href=&quot;http://coderdojo.org.pl/coderdojo-i-mistrzowie-kodowania/&quot;&gt;„Mistrzów Kodowania”&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;11-letni&lt;/strong&gt; Jurek zrobił na mnie szczególne wrażenie, kiedy po chwili z małego kartonowego pudełka wyciągnął robota, którego buduje od miesiąca. Podczas gdy reszta dzieci uczy się programowania przy pomocy języka Scratch, Jurek &lt;strong&gt;koduje w C&lt;/strong&gt;. Pod opieką swojego mentora, Franka, Jurek pomaga także w budowaniu &lt;strong&gt;robota sumo&lt;/strong&gt;, którego wraz z innymi dzieciakami zaprezentują podczas finału &lt;a href=&quot;http://coderdojo.org.pl/coderdojo-i-mistrzowie-kodowania/&quot;&gt;„Mistrzów Kodowania”&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;jedyna-zasada--bd-fajny&quot;&gt;Jedyna zasada – bądź fajny&lt;/h2&gt;
 
-&lt;p&gt;Godzina dziewiąta. Cała grupa zostaje podzielona na kilka 2-4 osobowych zespołów. Instrukcja złożenia robota składająca się z &lt;strong&gt;400&lt;/strong&gt; stron zostaje podzielona tak by każdy zespół mógł pracować niezależnie. Taka struktura przypomina w jakimś stopniu „zwinne” zespoły programistów (choć może to być duże nadużycie), które muszą nie tylko dynamicznie reagować na zmiany ale i ze sobą współpracować.&lt;/p&gt;
+&lt;p&gt;Godzina dziewiąta. Cała grupa zostaje podzielona na kilka 2-4 osobowych zespołów. Instrukcja złożenia robota składająca się z &lt;strong&gt;400&lt;/strong&gt; stron zostaje podzielona tak, by każdy zespół mógł pracować niezależnie. Taka struktura przypomina w jakimś stopniu „zwinne” zespoły programistów (choć może to być duże nadużycie), które muszą nie tylko dynamicznie reagować na zmiany, ale i ze sobą współpracować.&lt;/p&gt;
 
-&lt;p&gt;Mój 4-osobowy zespół dostaje ambitne zadanie – złożenie pierwszej części mechanizmu kołowego, który porusza się po linii montażowej. Ważne jest by nasz moduł pasował do drugiej części, składanej przez inny zespół, któremu pomagała Eunika. Sam raczej obserwując dzieciaków, zachęcam ich do pomagania sobie nawzajem i dokładności, której później nam zabrakło.&lt;/p&gt;
+&lt;p&gt;Mój 4-osobowy zespół dostaje ambitne zadanie – złożenie pierwszej części mechanizmu kołowego, który porusza się po linii montażowej. Ważne jest, by nasz moduł pasował do drugiej części, składanej przez inny zespół, któremu pomagała Eunika. Sam raczej obserwując dzieciaków, zachęcam ich do pomagania sobie nawzajem i do dokładności, której później nam zabrakło.&lt;/p&gt;
 
-&lt;p&gt;Mija godzina, do ukończenia modułu zostało zaledwie 15 minut. Wertując instrukcję tam i z powrotem coś nam nie pasuje. Dzieciaki wyraźnie znużone brakiem postępu, oddalają się by pograć na iPadach. Na placu boju zostaję sam. Szybka decyzja – składam od początku. Dzięki pomocy Wioletty, mentora w Coderdojo, która zachęcała dzieciaki do dalszej pracy, po kilkunastu minutach dołącza do mnie Franek, który później zapytany, dlaczego mimo niepowodzenia powrócił, odpowiedział: „&lt;em&gt;miałem dość ale wiedziałem, że trzeba skończyć&lt;/em&gt;”.&lt;/p&gt;
+&lt;p&gt;Mija godzina, do ukończenia modułu zostało zaledwie 15 minut. Wertując instrukcję tam i z powrotem coś nam nie pasuje. Dzieciaki wyraźnie znużone brakiem postępu, oddalają się, by pograć na iPadach. Na placu boju zostaję sam. Szybka decyzja – składam od początku. Dzięki pomocy Wioletty, mentora w Coderdojo, która zachęcała dzieciaki do dalszej pracy, po kilkunastu minutach dołącza do mnie Franek, który później zapytany, dlaczego mimo niepowodzenia powrócił, odpowiedział: „&lt;em&gt;miałem dość, ale wiedziałem, że trzeba skończyć&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;big&quot; src=&quot;/pl/blog/img/posts/2015/lego_spinner_factory_testing.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -35,11 +35,11 @@
 
 &lt;p&gt;Po &lt;strong&gt;trzech&lt;/strong&gt; godzinach w sali komputerowej robi się coraz duszniej. Widać pot i zmęczenie na twarzach uczestników. Zaczyna się drugi etap, czyli łączenie niezależnych modułów. Czeka nas sprawdzian naszej dokładności. Na nieszczęście nie tylko mój zespół popełnił błąd niedokładnego składania.&lt;/p&gt;
 
-&lt;p&gt;Okazuje się, że instrukcja Lego swoją złożonością nie zmieniła się od prawie 30 lat. Zdaje się, że powiedzenie „&lt;em&gt;klocki Lego nie są dla dzieci tylko dla ich rodziców&lt;/em&gt;” po raz kolejny się potwierdza. Po dłuższym czasie przy robocie zostają tylko „duże dzieci” – Michał, Bartek, Eunika i ja. Bartek Tabak, który prowadzi w bibliotece zajęcia z fotografii, na niejednym zdjęciu uwiecznił jak zespół, nie tylko dwoi się i troi, ale wykonuje na podłodze „gimnastykę artystyczną” by uruchomić robota.&lt;/p&gt;
+&lt;p&gt;Okazuje się, że instrukcja Lego swoją złożonością nie zmieniła się od prawie 30 lat. Zdaje się, że powiedzenie „&lt;em&gt;klocki Lego nie są dla dzieci, tylko dla ich rodziców&lt;/em&gt;” po raz kolejny się potwierdza. Po dłuższym czasie przy robocie zostają tylko „duże dzieci” – Michał, Bartek, Eunika i ja. Bartek Tabak, który prowadzi w bibliotece zajęcia z fotografii, na niejednym zdjęciu uwiecznił jak zespół, nie tylko dwoi się i troi, ale wykonuje na podłodze „gimnastykę artystyczną”, by uruchomić robota.&lt;/p&gt;
 
 &lt;p&gt;Jest już po godzinie 15. Właściwie już dawno powinniśmy skończyć. Mimo spędzonych wielu godzin, sprawdzania instrukcji nieskończoną ilość razy, ostatnia czynność, którą powinien wykonać robot, nie zostaje naprawiona. Ramię, które powraca ze śmigłem w kolorze wybranym poprzez detektor koloru, nie jest w stanie w odpowiednim momencie zwolnić „bączka” i pozwolić mu kręcić się po podłodze niczym zabawka, którą wielu z nas dobrze pamięta z dzieciństwa.&lt;/p&gt;
 
-&lt;p&gt;Nie traktujemy tego oczywiście jako porażki – liczy się to, że robota udało się uruchomić i ruszyć z jego linią produkcyjną. Warto na „porażkę” spojrzeć nie jako na niepowodzenie ale na lekcję, jaką można wyciągnąć na przyszłość.
+&lt;p&gt;Nie traktujemy tego oczywiście jako porażki – liczy się to, że robota udało się uruchomić i ruszyć z jego linią produkcyjną. Warto na „porażkę” spojrzeć nie jako na niepowodzenie, ale na lekcję, jaką można wyciągnąć na przyszłość.
 Świetnie ujął to &lt;em&gt;A.P.J. Abdul Kalam&lt;/em&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -48,7 +48,7 @@
 
 &lt;p&gt;co w wolnym tłumaczeniu da się przetłumaczyć jako „pierwsza próba nauczenia się czegoś”.&lt;/p&gt;
 
-&lt;p&gt;Trzeba przyznać, że złożenie tego typu robota było zadaniem ambitnym dla tej grupy wiekowej. Utwierdziło mnie także w przekonaniu, że uczenie młodych programowania powinno się odbywać właśnie tworząc coś „namacalnego”, nie abstrakcyjnego przekazywania suchych pojęć i wiedzy teoretycznej.
+&lt;p&gt;Trzeba przyznać, że złożenie tego typu robota było zadaniem ambitnym dla tej grupy wiekowej. Utwierdziło mnie także w przekonaniu, że uczenie młodych programowania powinno się odbywać właśnie tworząc coś „namacalnego”, a nie od abstrakcyjnego przekazywania suchych pojęć i wiedzy teoretycznej.
 Jednak ważne jest, jak powiedziała mi Eunika, że &lt;em&gt;„choć był to pierwszy tego typu eksperyment, a projekt był bardzo skomplikowany – udało nam się go ukończyć. Całe doświadczenie pokazało nam, że przy realizacji dowolnego projektu liczy się przede wszystkim determinacja, praca zespołowa i pozytywne nastawienie”&lt;/em&gt;.&lt;/p&gt;
 
 &lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
@@ -57,10 +57,10 @@ Jednak ważne jest, jak powiedziała mi Eunika, że &lt;em&gt;„choć był to p
 
 &lt;h2 id=&quot;nie-tylko-programowanie&quot;&gt;Nie tylko programowanie&lt;/h2&gt;
 
-&lt;p&gt;W bibliotece miejskiej, w której odbywają się warsztaty Coder Dojo prowadzone są nie tylko zajęcia z programowania ale także z warsztaty z fotografii i zajęcia z zakresu szeroko rozumianej edukacji medialnej. Tego typu dodatkowe zajęcia to nie tylko sposób na spędzenie wolnego czasu w wartościowy sposób ale i próba zachęcenia dzieci do wykorzystania komputerów nie tylko do grania. Należy mieć nadzieję, że uda się odkryć więcej talentów takich jak Jurek, który &lt;s&gt;już za niedługo pojedzie do Warszawy&lt;/s&gt; (&lt;a href=&quot;https://www.facebook.com/1617811011788747/photos/pb.1617811011788747.-2207520000.1433093732./1644071349162713/?type=1&amp;amp;theater&quot;&gt;chłopaki są już w Warszawie&lt;/a&gt;) wraz z kolegami na finał „Mistrzów Kodowania”, prezentując z dumą swojego robota.&lt;/p&gt;
+&lt;p&gt;W bibliotece miejskiej, w której odbywają się warsztaty Coder Dojo, prowadzone są nie tylko zajęcia z programowania, ale także warsztaty z fotografii i zajęcia z zakresu szeroko rozumianej edukacji medialnej. Tego typu dodatkowe zajęcia to nie tylko sposób na spędzenie wolnego czasu w wartościowy sposób, ale i próba zachęcenia dzieci do wykorzystania komputerów nie tylko do grania. Należy mieć nadzieję, że uda się odkryć więcej talentów takich jak Jurek, który &lt;s&gt;już za niedługo pojedzie do Warszawy&lt;/s&gt; (&lt;a href=&quot;https://www.facebook.com/1617811011788747/photos/pb.1617811011788747.-2207520000.1433093732./1644071349162713/?type=1&amp;amp;theater&quot;&gt;chłopaki są już w Warszawie&lt;/a&gt;) wraz z kolegami na finał „Mistrzów Kodowania”, prezentując z dumą swojego robota.&lt;/p&gt;
 
 &lt;p&gt;Zdjęcia można zobaczyć na profilu &lt;a href=&quot;https://www.facebook.com/media/set/?set=a.822300077854496.1073741854.369211183163390&amp;amp;type=1&quot;&gt;MiksturaIT&lt;/a&gt;.
-Przy tworzeniu tego artykułu pomagała Eunika. :)&lt;/p&gt;
+Przy tworzeniu tego artykułu pomagała Eunika. Korekta Agnieszka Pawlicka. :)&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jun 2015 00:00:00 +0200</pubDate>
       </item>
