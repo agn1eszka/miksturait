@@ -51,4 +51,4 @@ Jednak ważne jest, jak powiedziała mi Eunika, że *„choć był to pierwszy t
 W bibliotece miejskiej, w której odbywają się warsztaty Coder Dojo, prowadzone są nie tylko zajęcia z programowania, ale także warsztaty z fotografii i zajęcia z zakresu szeroko rozumianej edukacji medialnej. Tego typu dodatkowe zajęcia to nie tylko sposób na spędzenie wolnego czasu w wartościowy sposób, ale i próba zachęcenia dzieci do wykorzystania komputerów nie tylko do grania. Należy mieć nadzieję, że uda się odkryć więcej talentów takich jak Jurek, który <s>już za niedługo pojedzie do Warszawy</s> ([chłopaki są już w Warszawie](https://www.facebook.com/1617811011788747/photos/pb.1617811011788747.-2207520000.1433093732./1644071349162713/?type=1&theater)) wraz z kolegami na finał „Mistrzów Kodowania”, prezentując z dumą swojego robota.
 
 Zdjęcia można zobaczyć na profilu [MiksturaIT](https://www.facebook.com/media/set/?set=a.822300077854496.1073741854.369211183163390&type=1).
-Przy tworzeniu tego artykułu pomagała Eunika. :)
+Przy tworzeniu tego artykułu pomagała Eunika. Korekta Agnieszka Pawlicka. :)
